@@ -1,0 +1,2228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second volume conteyninge those statutes whiche haue ben made in the tyme of the most victorious reigne of our most gracious soveragine lorde Kyng Henry the Eyght</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1543</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22800</idno>
+            <idno type="STC">STC 9303.4</idno>
+            <idno type="STC">ESTC S4644</idno>
+            <idno type="EEBO-CITATION">23677250</idno>
+            <idno type="OCLC">ocm 23677250</idno>
+            <idno type="VID">26806</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26806)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1832:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second volume conteyninge those statutes whiche haue ben made in the tyme of the most victorious reigne of our most gracious soveragine lorde Kyng Henry the Eyght</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[12+] p.   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Thomæ Bertheleti ...,</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>M.D.XLIII [1543]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Cum priuilegio ad imprimendum solum."</note>
+                  <note>Includes index.</note>
+                  <note>Imperfect: includes t.p. and index only.</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:26806:1"/>
+            <pb facs="tcp:26806:1" rendition="simple:additions"/>
+            <p>
+               <g ref="char:leaf">❧</g> THE Second Volume conteyninge thoſe Statutes, vvhiche
+haue ben made in the tyme of the moſt vi<g ref="char:EOLhyphen"/>ctorious reigne of our moſt
+gracious ſoue<g ref="char:EOLhyphen"/>raigne lorde kyng Henry the Eyght. <g ref="char:leaf">❧</g>
+            </p>
+            <p>
+               <g ref="char:leaf">❧</g> LONDINI in aedibus Thomae Bertheleti Typographi regii
+excuſ. ANNO verbi incarnati. M.D.XLIII.</p>
+            <p>CVM priuilegio ad imprimen<g ref="char:EOLhyphen"/>dum ſolum⸫</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_statutes">
+            <pb facs="tcp:26806:2"/>
+            <pb facs="tcp:26806:2"/>
+            <head>THE TABLE.</head>
+            <list>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">A</seg>Biuration.</hi> Anno. 21. H. 8. c. 2. Et. 22. c. 14.
+Et. 25. c 14. Et. 28 c. 1.</item>
+               <item>
+                  <hi>Abiured perſons.</hi> 32. c. 12.</item>
+               <item>
+                  <hi>Aboliſhyng of dyuerſity of opinions.</hi> 31. c.
+14.</item>
+               <item>
+                  <hi>Accompt.</hi> 23. c. 15.</item>
+               <item>
+                  <hi>Accompt of byſſhoppes.</hi> 32. c. 22.</item>
+               <item>
+                  <hi>Acquitaunces.</hi> 1. c. 3. Et. 33. c. 39.</item>
+               <item>
+                  <hi>Actes of parlyament.</hi> 28. c. 17.</item>
+               <item>
+                  <hi>Accuſours of hereſy.</hi> 31. c. 14.</item>
+               <item>
+                  <hi>Actions popular.</hi> 1. c. 4. Et. 7. c. 3.</item>
+               <item>
+                  <hi>Action vpon the caſe.</hi> 23. c. 15.</item>
+               <item>
+                  <hi>Adminiſtratours.</hi> 32. c. 37.</item>
+               <item>
+                  <hi>Admirall.</hi> 3. c. 5. Et. 27. c. 4. Et. 28. c. 15. Et.
+32. c. 14.</item>
+               <item>
+                  <hi>Aduouſon.</hi> 7. c. 4.</item>
+               <item>
+                  <hi>Aegyptians.</hi> 22. c. 10.</item>
+               <item>
+                  <hi>Aged, poore, and impotent perſons.</hi> 22. c. 12. Et
+31. c. 7.</item>
+               <item>
+                  <hi>Alebruers.</hi> 23 c. 4.</item>
+               <item>
+                  <hi>Alienation.</hi> 14. &amp;. 15. c. 14. Et. 32. c.
+36.</item>
+               <item>
+                  <hi>Aliens borne</hi> 32. c. 16.</item>
+               <item>
+                  <hi>Allottyng of townſhyps in Wales.</hi> 28. c. 3. Et. 31.
+c. 11.</item>
+               <item>
+                  <hi>Almes.</hi> 22. c. 12.</item>
+               <item>
+                  <hi>Ambaſſadour.</hi> 14. &amp;. 15. c. 4.</item>
+               <item>
+                  <hi>Amending of bridges.</hi> 22. c. 5.</item>
+               <item>
+                  <hi>Annates.</hi> 25. c. 20.</item>
+               <item>
+                  <hi>Anothomy.</hi> 32. c. 42.</item>
+               <item>
+                  <hi>Anoyſance.</hi> 22. c. 5.</item>
+               <item>
+                  <hi>Anual rent.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Anſweryng vndirectly.</hi> 25. c. 3. Et. 32. c.
+3.</item>
+               <item>
+                  <hi>Apparel.</hi> 1. c. 14. Et. 6. c. 1. Et. 7. c. 7. Et. 24.
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>3</item>
+               <item>
+                  <hi>Appele.</hi> 23. c. 9.</item>
+               <item>
+                  <hi>Appele to the courte of Rome.</hi> 24. c. 12. Et. 25. c.
+19.</item>
+               <item>
+                  <hi>Apprentiſes.</hi> 7. c. 6. Et. 14. &amp;. 15. c. 2.
+&amp;. 3. Et. 21 c. 7. 16. &amp;. 21. Et. 22 c. 4. Et. 28. c. 5. Et. 32. c.
+16.</item>
+               <item>
+                  <hi>Archebyſhop.</hi> 21. c. 13. Et. 23. c. 9. Et. 24. c.
+12. Et. 26. c. 3. &amp;. 14. Et. 28. c. 16. Et. 32. c. 15.</item>
+               <item>
+                  <hi>Archebyſhop of Canterbury.</hi> 6. c. 17. Et. 25. c.
+21. Et. 28. c. 16. Et. 33. c. 31.</item>
+               <item>
+                  <hi>Archebyſhop of Yorke.</hi> 25. c. 21. Et. 27. c.
+24.</item>
+               <item>
+                  <hi>Archedeaconry of Rychemond.</hi> 26. c. 15. Et. 33. c.
+31.</item>
+               <item>
+                  <hi>Arches.</hi> 23. c. 8. Et. 24. c. 12.</item>
+               <item>
+                  <hi>Archery</hi> 3. c. 3 Et. 6. c. 2. Et. 33. c. 9.</item>
+               <item>
+                  <hi>Armes.</hi> 33. c. 14.</item>
+               <item>
+                  <hi>Arrerages.</hi> 32. c. 37.</item>
+               <item>
+                  <hi>Artificers</hi> 4. c. 5. Et. 6. c. 3.</item>
+               <item>
+                  <hi>Artificers in London.</hi> 7 c 6.</item>
+               <item>
+                  <hi>Artificers ſtrau<g ref="char:cmbAbbrStroke">̄</g>gers.</hi> 14. &amp;. 15. c. 2. Et.
+21. c. 16. Et. 32. c. 16.</item>
+               <item>
+                  <hi>Aſſiſe</hi> 21. c. 3.</item>
+               <item>
+                  <hi>Aſſurance of the landes to the kynges highnes that
+belonged to religious houſes.</hi> 31. c. 13.</item>
+               <item>
+                  <hi>Atteint</hi> 1. c. 11. Et. 23. c. 3. Et. 28. c. 9. Et.
+31. c. 7. Et. 32. c. 2. Et. 33. c. 17.</item>
+               <item>
+                  <hi>Atteinder.</hi> 31. c 13.</item>
+               <item>
+                  <hi>Atteinder of high treaſon.</hi> 33. c. 20.</item>
+               <item>
+                  <hi>Atteinder of Eliſabeth Barton with other.</hi> 25. c.
+12.</item>
+               <item>
+                  <hi>Atteinder of queene Anne, and other.</hi> 28. c.
+7.</item>
+               <item>
+                  <hi>Atteinder of queene Catharin.</hi> 33. c. 21.</item>
+               <item>
+                  <hi>Attourneys.</hi> 32. c. 30. Et 33. c. 17.</item>
+               <item>
+                  <hi>Audita querela.</hi> 23. c. 6.</item>
+               <item>
+                  <hi>Auditours.</hi> 33. c. 39.</item>
+               <item>
+                  <hi>Alnageours</hi> 3. c. 6. Et. 27. c. 12. Et. 33. c.
+18.</item>
+               <item>
+                  <hi>Auncient cuſtome.</hi> 23. c. 10.</item>
+               <item>
+                  <hi>Auoury.</hi> 7. c. 4. Et. 21. c. 19. Et. 32. c. 2. &amp;.
+37.</item>
+               <item>
+                  <hi>Auricular confeſſion.</hi> 31. c. 14.</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>
+                  <hi>BAiliffes.</hi> 6. c. 7. Et. 14. &amp;. 15. c. 2 Et. 21.
+c. 2. Et. 22. c. 5. 12. &amp;. 14. Et. 23. c. 2. Et. 25 c. 1. Et. 33. c. 6.
+&amp;. 9.</item>
+               <item>
+                  <hi>Bailiffe of huſbandry.</hi> 6. c. 3.</item>
+               <item>
+                  <hi>Baker.</hi> 22. c. 13.</item>
+               <item>
+                  <hi>Baleſt for ſhyppes.</hi> 27. c. 18.</item>
+               <item>
+                  <hi>Barbour.</hi> 5. c. 6. Et. 32. c. 42.</item>
+               <item>
+                  <hi>Barell for biere and ale.</hi> 23. c. 4.</item>
+               <item>
+                  <hi>Barel of ſope.</hi> 23. c. 4.</item>
+               <item>
+                  <hi>Bargaine.</hi> 21. c. 4. &amp;. 13.</item>
+               <item>
+                  <hi>Barge.</hi> 6. c. 7.</item>
+               <item>
+                  <hi>Barre.</hi> 3. c. 12.</item>
+               <item>
+                  <hi>Baſtard clothes.</hi> 3. c. 6.</item>
+               <item>
+                  <hi>Batable grounde.</hi> 23. c. 16.</item>
+               <item>
+                  <hi>Beames and weyghtes.</hi> 4. c. 7.</item>
+               <item>
+                  <hi>Beggars.</hi> 22. c. 12. Et. 27. c. 25. Et. 28. c. 6. Et.
+31. c. 7. Et. 33. c. 17.</item>
+               <item>
+                  <hi>Bell metal.</hi> 33. c. 7.</item>
+               <item>
+                  <hi>Benefice.</hi> 21. c. 13. Et. 26. c. 14.</item>
+               <item>
+                  <hi>Beneficed perſons.</hi> 28. c, 13.</item>
+               <item>
+                  <hi>Benefit of clergy</hi> 3. c. 5. Et. 4. c. 2. Et. 23. c.
+1. &amp;. 11. Et. 27. c. 4. &amp;. 17. E. 28. c. 1. &amp;. 2. Et. 32. c 3.
+&amp;. 12. Et. 33. c. 8.</item>
+               <item>
+                  <hi>Berwike.</hi> 21. c. 6.</item>
+               <item>
+                  <hi>Bieng of tytles.</hi> 32. c. 9.</item>
+               <item>
+                  <hi>Bier of wollen clothes.</hi> 3. c. 6. Et. 6. c. 9.</item>
+               <item>
+                  <hi>Billes.</hi> 1. c. 3.</item>
+               <item>
+                  <hi>Biere bruers.</hi> 23. c. 4.</item>
+               <item>
+                  <hi>Byſhoppes.</hi> 21. c. 13. Et. 26. c. 3. &amp;. 14. Et.
+28. c. 16. Et. 31. c. 9. Et. 32. c. 15.</item>
+               <item>
+                  <hi>Byſhop of Cheſter.</hi> 33 c. 30.</item>
+               <item>
+                  <hi>Byſhop of Couentre and Lichefielde.</hi> 33. c.
+30.</item>
+               <item>
+                  <hi>Byſhop of Dureſme.</hi> 27. c. 24.</item>
+               <item>
+                  <hi>Byſhop of Ely.</hi> 27. c. 24.</item>
+               <item>
+                  <hi>Byſhop of London.</hi> 3. c. 11.</item>
+               <item>
+                  <hi>Byſhop of Norewich.</hi> 26. c. 3. Et. 32. c.
+47.</item>
+               <item>
+                  <hi>Biſhop of Rome.</hi> 25. c. 19. &amp;. 21. Et. 28. c.
+10. &amp;. 16.</item>
+               <item>
+                  <hi>Biſhopriche of Cheſter.</hi> 33. c. 31.</item>
+               <item>
+                  <hi>Biſhopriche of Man.</hi> 33, c. 31.</item>
+               <item>
+                  <hi>Blackewell hall.</hi> 14. &amp;. 15. c. 1.</item>
+               <item>
+                  <hi>Bloudſhed and malitious ſtrikynges within the
+courte</hi> 33. c. 12.</item>
+               <item>
+                  <hi>Bodies politike.</hi> 31. c 13.</item>
+               <item>
+                  <pb facs="tcp:26806:3"/>
+                  <hi>Bonets.</hi> 21. c. 9.</item>
+               <item>
+                  <hi>Bookes.</hi> 31. c. 14.</item>
+               <item>
+                  <hi>Bookes of taxes.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Botemen.</hi> 6. c. 7.</item>
+               <item>
+                  <hi>Bouchers.</hi> 21. c. 8. Et. 22. c. 6. Et. 24. c. 7.
+&amp;. 9 Et. 25 c. 1. Et. 27. c. 9. Et. 33. c. 11.</item>
+               <item>
+                  <hi>Bowler.</hi> 3. c. 3. Et. 6. c. 2. Et. 33. c. 9.</item>
+               <item>
+                  <hi>Bowſtaues.</hi> 3. c. 3. Et. 6. c. 2. &amp; 11. Et. 33.
+c. 9.</item>
+               <item>
+                  <hi>Braſel.</hi> 24. c. 2.</item>
+               <item>
+                  <hi>Braſiers.</hi> 4. c. 7. Et. 33. c. 4.</item>
+               <item>
+                  <hi>Braſſe, laten, and copper.</hi> 21. c. 10. Et. 28. c.
+8. Et. 31. c. 7. Et. 33. c. 7.</item>
+               <item>
+                  <hi>Breede of horſes.</hi> 27. c. 6. Et. 32. c. 13.</item>
+               <item>
+                  <hi>Breeder.</hi> 25. c. 1.</item>
+               <item>
+                  <hi>Brekyng of pryſon.</hi> 23. c. 11.</item>
+               <item>
+                  <hi>Bridge.</hi> 1. c. 9. Et. 22. c. 5.</item>
+               <item>
+                  <hi>Briſtow.</hi> 6. c. 18.</item>
+               <item>
+                  <hi>Britayne.</hi> 4. c. 1.</item>
+               <item>
+                  <hi>Brode clothes.</hi> 27. c. 12.</item>
+               <item>
+                  <hi>Brode white wollen clothes.</hi> 14. &amp;. 15. c.
+1.</item>
+               <item>
+                  <hi>Brogger.</hi> 25. c. 1.</item>
+               <item>
+                  <hi>Bruer.</hi> 22. c. 13.</item>
+               <item>
+                  <hi>Bruhouſe.</hi> 21. c. 13.</item>
+               <item>
+                  <hi>Buggery.</hi> 25. c. 6. Et. 28. c. 1. &amp;. 6. Et. 31.
+c. 7. Et 32. c. 3.</item>
+               <item>
+                  <hi>Bulles, breues, faculties, and diſpenſations.</hi>
+28. c. 16.</item>
+               <item>
+                  <hi>Bullion.</hi> 1. c. 14. Et. 3. c. 1.</item>
+               <item>
+                  <hi>Bulwarkes &amp; blockhouſes.</hi> 4. c. 1. Et. 32. c.
+48</item>
+               <item>
+                  <hi>Burgeſes.</hi> 6. c. 16.</item>
+               <item>
+                  <hi>Burporte.</hi> 21. c. 12.</item>
+               <item>
+                  <hi>Butlarage.</hi> 1. c. 5.</item>
+               <item>
+                  <hi>Butte of malmeſey.</hi> 23. c. 7.</item>
+               <item>
+                  <hi>Buttes.</hi> 3. c. 3. Et. 6. c. 2. Et. 33. c. 9.</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>
+                  <hi>CAbles.</hi> 21. c. 12. Et. 28. c. 8. Et. 31. c. 7. Et.
+33. c. 17.</item>
+               <item>
+                  <hi>Caleys.</hi> 3. c. 5. Et. 14. &amp;. 15. c. 14. Et. 21.
+c. 6 Et. 22. c. 7. Et. 25. c. 2. &amp;. 10. Et. 33. c. 1.</item>
+               <item>
+                  <hi>Calendryng of worſtedes.</hi> 5. c. 4. Et. 25. c.
+5.</item>
+               <item>
+                  <hi>Calker.</hi> 6. c. 3.</item>
+               <item>
+                  <hi>Calues.</hi> 21. c. 8. Et. 24. c. 7. Et. 25. c. 1. Et.
+27. c. 9.</item>
+               <item>
+                  <hi>Cambridge</hi> 3. c. 12. Et. 21. c. 16. Et. 24. c. 1.
+&amp;. 3. Et. 32. c. 16. &amp;. 23.</item>
+               <item>
+                  <hi>Canterbury.</hi> 6. c. 17.</item>
+               <item>
+                  <hi>Capitaines.</hi> 3. c. 4. &amp;. 5. Et. 14. &amp;. 15. c.
+14. Et. 27. c. 14.</item>
+               <item>
+                  <hi>Cappes and hattes.</hi> 3. c. 15. Et. 21. c. 9. Et. 22.
+c. 1</item>
+               <item>
+                  <hi>Carder and ſpynner.</hi> 3 c. 6. Et. 6. c. 9.</item>
+               <item>
+                  <hi>Carpenel whites.</hi> 6. c. 9.</item>
+               <item>
+                  <hi>Caſkes</hi> 23 c. 7.</item>
+               <item>
+                  <hi>Caſket.</hi> 27. c 17. Et. 28. c. 2.</item>
+               <item>
+                  <hi>Caſtel of Douer.</hi> 32. c. 48.</item>
+               <item>
+                  <hi>Caſtelwardes.</hi> 32 c. 48.</item>
+               <item>
+                  <hi>Catholyke feith.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Cemitories.</hi> 32 c. 12.</item>
+               <item>
+                  <hi>Ceremonies.</hi> 25. c. 20. Et. 28. c. 10. Et. 32. c.
+26.</item>
+               <item>
+                  <hi>Certificat.</hi> 14. &amp;. 15. c. 4. &amp;. 6. Et. 22.
+c. 7. Et. 26. c. 3. Et. 28. c. 9. Et. 31. c 14.</item>
+               <item>
+                  <hi>Chace.</hi> 31. c 12.</item>
+               <item>
+                  <hi>Challence.</hi> 23. c. 13. Et. 27. c. 4. Et. 28. c. 1.
+Et. 31 c. 14. Et. 33. c. 23.</item>
+               <item>
+                  <hi>Challenge peremptory.</hi> 25. c. 3. Et. 32. c. 3.</item>
+               <item>
+                  <hi>Champerty</hi> 32. c. 9.</item>
+               <item>
+                  <hi>Chauncellour of England.</hi> 5. c. 1. Et. 6. c. 10. Et.
+21. c. 16. &amp;. 20. Et. 23. c. 18. Et. 27. c. 4. 5. &amp;. 11. Et. 28. c. 15.
+&amp;. 16 Et. 32. c. 12. Et. 33. c. 23.</item>
+               <item>
+                  <hi>Chauncellour of the eſcheker.</hi> 25. c. 16.</item>
+               <item>
+                  <hi>Chauncellour of the court of Augmentations.</hi> 27. c.
+27. Et. 32. c. 20. Et. 33. c. 39.</item>
+               <item>
+                  <hi>Chancellour of the fyrſt fruictes</hi> 32. c.
+45.</item>
+               <item>
+                  <hi>Chancellours of courtes.</hi> 33. c. 28.</item>
+               <item>
+                  <hi>Chancellours and Commiſſaries.</hi> 32. c. 15.</item>
+               <item>
+                  <hi>Chapleins.</hi> 21. c. 13.</item>
+               <item>
+                  <hi>Chapleins beneficed with cure.</hi> 25. c. 16. Et. 33. c.
+28.</item>
+               <item>
+                  <hi>Chart.</hi> 6. c. 17.</item>
+               <item>
+                  <hi>Chauntrees</hi> 28. c. 11.</item>
+               <item>
+                  <hi>Cheſter.</hi> 23 c. 5.</item>
+               <item>
+                  <hi>Children borne beyond the ſea made meere
+en<g ref="char:EOLhyphen"/>glyſh.</hi> 33. c. 25.</item>
+               <item>
+                  <hi>Children to be reputed legittimat.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Chriſtis religion.</hi> 32. c. 26.</item>
+               <item>
+                  <hi>Churches.</hi> 32. c. 12.</item>
+               <item>
+                  <hi>Churche way.</hi> 14. &amp;. 15. c. 19.</item>
+               <item>
+                  <hi>Churchewardeyns.</hi> 23. c. 10.</item>
+               <item>
+                  <hi>Citations.</hi> 23. c. 9.</item>
+               <item>
+                  <hi>Ciuillaw.</hi> 23 c. 9.</item>
+               <item>
+                  <hi>Clergy of the realme.</hi> 27. c. 15.</item>
+               <item>
+                  <hi>Clerkes of the chauncery.</hi> 14. &amp;. 15. c 8.</item>
+               <item>
+                  <hi>Clerkes of the pety bagge.</hi> 1. c. 8. Et. 3. c. 2. Et.
+33. c. 22. &amp; 39.</item>
+               <item>
+                  <hi>Clerkes of ſhyriffes</hi> 6. c. 13.</item>
+               <item>
+                  <hi>Clerke of the peace.</hi> 22. c. 12. Et. 27. c.
+16.</item>
+               <item>
+                  <hi>Clerke of the ſtaple.</hi> 23. c. 6.</item>
+               <item>
+                  <hi>Clerke of the lyueries.</hi> 33. c. 22.</item>
+               <item>
+                  <hi>Clerke of aſſiſes.</hi> 33. c. 24.</item>
+               <item>
+                  <hi>Clerke of the hanaper.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Clerkes of the ſygnet and priuy ſeale.</hi> 27. c.
+11.</item>
+               <item>
+                  <hi>Clerke of the market.</hi> 27. c. 24. Et. 32. c.
+20.</item>
+               <item>
+                  <hi>Clerke conuicte.</hi> 23. c. 11.</item>
+               <item>
+                  <hi>Clerke within orders.</hi> 32. c. 3.</item>
+               <item>
+                  <hi>Clothes called veſſes or ſet clothes.</hi> 14.
+&amp;. 15. c. 11.</item>
+               <item>
+                  <hi>Clothes caryed out of this realme not fulled.</hi> 3. c.
+7.</item>
+               <item>
+                  <hi>Clothes drawen or ſtrayned.</hi> 3. c. 6.</item>
+               <item>
+                  <hi>Clothes of ruſſet colour.</hi> 6. c. 9.</item>
+               <item>
+                  <hi>Clothes ſolde by meaſure.</hi> 3. c. 6.</item>
+               <item>
+                  <hi>Clothes white of.</hi> 4. <hi>
+                     <abbr>li.</abbr> and
+coloured of.</hi> 3. <hi>
+                     <abbr>li.</abbr> conueyed beyonde the ſea
+vndreſſed.</hi> 27. c. 13. Et. 33. c. 19.</item>
+               <item>
+                  <hi>Clothiers.</hi> 1. c. 2. Et. 3. c. 6. Et. 5. c. 2. Et. 6.
+c. 8 &amp; 9. Et. 22. c. 1. Et. 27. c. 12. Et. 33. c. 18.</item>
+               <item>
+                  <hi>Clothiers in Worceſter ſhyre.</hi> 25. c. 18.</item>
+               <item>
+                  <hi>Coine.</hi> 1. c. 13.</item>
+               <item>
+                  <hi>Coiners.</hi> 14. &amp;. 15. c. 12.</item>
+               <item>
+                  <pb facs="tcp:26806:3"/>
+                  <hi>Collectours and Controllers of the
+Subſidy.</hi> 4. c. 6.</item>
+               <item>
+                  <hi>Collection of the tenth.</hi> 32. c. 22.</item>
+               <item>
+                  <hi>Coltes.</hi> 22. c. 7.</item>
+               <item>
+                  <hi>Colored woll or yarne.</hi> 3. c. 6. Et. 6. c. 9.</item>
+               <item>
+                  <hi>Commiſſion.</hi> 31. c. 14. Et. 32. c. 15.</item>
+               <item>
+                  <hi>Commiſſioner.</hi> 3. c. 2. Et 31. c. 14.</item>
+               <item>
+                  <hi>Commiſſions of ſewers.</hi> 6. c. 10. Et. 23. c. 5.
+Et. 25. c. 10.</item>
+               <item>
+                  <hi>Commiſſion of oier and terminer.</hi> 33. c.
+23.</item>
+               <item>
+                  <hi>Commiſſions of the marches.</hi> 26. c. 6.</item>
+               <item>
+                  <hi>Common place.</hi> 32. c. 20.</item>
+               <item>
+                  <hi>Communion in bothe kyndes.</hi> 31. c 13.</item>
+               <item>
+                  <hi>Compoſitions.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Comptroller.</hi> 22 c 7.</item>
+               <item>
+                  <hi>Concelement.</hi> 33. c. 21.</item>
+               <item>
+                  <hi>Condites in Glouceſter.</hi> 33. c. 35.</item>
+               <item>
+                  <hi>Conies.</hi> 31. c. 12. Et. 32. c. 11.</item>
+               <item>
+                  <hi>Coniuracions.</hi> 33. c. 8.</item>
+               <item>
+                  <hi>Conſecration of byſſhops.</hi> 25 c. 20.</item>
+               <item>
+                  <hi>Conſtable.</hi> 4. c. 1. Et. 6. c. 7. Et. 21. c. 2. Et.
+22. c 5. 12. &amp;. 14. Et. 25. c. 1. Et. 27. c. 5. Et. 32. c. 12. Et. 33. c.
+9.</item>
+               <item>
+                  <hi>Conſtable of the caſtel of Douer.</hi> 32. c.
+48.</item>
+               <item>
+                  <hi>Conſtitutions.</hi> 25. c. 19. Et. 27. c. 15.</item>
+               <item>
+                  <hi>Counterfeytyng the kynges ſygne manuel, pri<g ref="char:EOLhyphen"/>uy
+ſygnet, or priuy ſeale.</hi> 27. c. 2.</item>
+               <item>
+                  <hi>Counterfeyt letters</hi> 33. c. 1.</item>
+               <item>
+                  <hi>Counterfeytynge of coyne.</hi> 22. c. 9.</item>
+               <item>
+                  <hi>Conueyaunces deuyſed by ſyr Iohn Shelton knyght.</hi>
+33. c. 26.</item>
+               <item>
+                  <hi>Conuocation.</hi> 24. c. 12. Et. 25. c. 19. Et. 27. c.
+15.</item>
+               <item>
+                  <hi>Copy hold.</hi> 31. c. 13.</item>
+               <item>
+                  <hi>Copper.</hi> 21. c. 10. Et. 28. c. 8. Et. 31. c. 7. Et
+33. c 7</item>
+               <item>
+                  <hi>Cordwayner.</hi> 3. c. 10 Et. 25. c. 7. Et. 14. &amp;.
+15. c. 9. Et. 21. c. 16. Et. 24. c. 1.</item>
+               <item>
+                  <hi>Cornwall.</hi> 3. c. 6. Et. 4. c. 1. Et. 23. c. 8. Et.
+27. c. 23.</item>
+               <item>
+                  <hi>Coroner.</hi> 1. c. 7. Et. 21. c. 2. Et. 22. c 14. Et.
+27. c 5. Et. 32. c 12. Et. 33. c. 12. &amp;. 13.</item>
+               <item>
+                  <hi>Corſepreſentes.</hi> 21. c. 6.</item>
+               <item>
+                  <hi>Coſtes recouered againſt playntyffes.</hi> 23. c.
+15.</item>
+               <item>
+                  <hi>Coſtes not to be recouered.</hi> 24. c. 8.</item>
+               <item>
+                  <hi>Couenant.</hi> 23. c. 15.</item>
+               <item>
+                  <hi>Couert baron</hi> 32. c. 2.</item>
+               <item>
+                  <hi>County dayes.</hi> 32. c. 43. Et. 33 c. 13.</item>
+               <item>
+                  <hi>Cou<g ref="char:cmbAbbrStroke">̄</g>ties palantines.</hi> 1. c. 8. Et. 3. c. 2. Et. 33.
+c. 10.</item>
+               <item>
+                  <hi>Couentre</hi> 3 c. 8.</item>
+               <item>
+                  <hi>Cou<g ref="char:cmbAbbrStroke">̄</g>ty palantine of Cheſter.</hi> 32. c. 43. Et. 33. c.
+13</item>
+               <item>
+                  <hi>County of <abbr>mydd.</abbr>
+                  </hi> 4. c. 4. Et. 6. c.
+4.</item>
+               <item>
+                  <hi>County palantyne of Lancaſter.</hi> 33. c. 22. &amp;.
+39.</item>
+               <item>
+                  <hi>Coupers.</hi> 14. &amp;. 15. c. 2. Et. 23. c. 4.</item>
+               <item>
+                  <hi>Courte of Rome.</hi> 21. c. 13.</item>
+               <item>
+                  <hi>Court of the augmentations.</hi> 27. c. 27. Et. 31. c 5.
+Et 33 c. 37. 38. &amp;. 39.</item>
+               <item>
+                  <hi>Court of the fyrſt fruictes and tenth.</hi> 32. c.
+45.</item>
+               <item>
+                  <hi>Court of the kynges wardes.</hi> 32. c. 46.</item>
+               <item>
+                  <hi>Court of ſurueiours.</hi> 33. c. 39.</item>
+               <item>
+                  <hi>Croſbowes.</hi> 3. c. 3. &amp;. 13. Et. 6. c. 13. Et.
+14. &amp;. 15 c. 7. Et. 25. c. 17. Et. 33. c. 6.</item>
+               <item>
+                  <hi>Croſſes.</hi> 33. c. 8.</item>
+               <item>
+                  <hi>Crowes and Choughes.</hi> 24. c. 10.</item>
+               <item>
+                  <hi>Curates.</hi> 31. c. 14.</item>
+               <item>
+                  <hi>Curriour.</hi> 3. c. 10. Et. 5. c. 7. Et. 24. c.
+1.</item>
+               <item>
+                  <hi>Cuſtome.</hi> 1. c. 5. Et. 14. &amp;. 15. c. 4. Et. 22.
+c. 8. Et 27. c 14. Et. 32. c. 14.</item>
+               <item>
+                  <hi>Cuſtomers.</hi> 14. &amp;. 15. c. 4. Et. 22. c. 7. Et.
+27. c 14. Et. 33. c. 7.</item>
+               <item>
+                  <hi>Cuſtos rotulorum.</hi> 22. c. 12. Et. 27. c. 16.</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>
+                  <hi>DAies of retourne</hi> 32. c. 21.</item>
+               <item>
+                  <hi>Dartmouth.</hi> 23. c. 8.</item>
+               <item>
+                  <hi>Deane</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Deane and chapiter.</hi> 25. c. 20.</item>
+               <item>
+                  <hi>Deane of Paules.</hi> 3. c. 11.</item>
+               <item>
+                  <hi>Deane and chapiter of Lichefielde.</hi> 33. c. 30.</item>
+               <item>
+                  <hi>Decay of townes.</hi> 25. c. 13.</item>
+               <item>
+                  <hi>Deere.</hi> 32. c. 11.</item>
+               <item>
+                  <hi>Degrees of mariage prohibit by goddes lawe.</hi> 25. c.
+22. Et. 28. c 7.</item>
+               <item>
+                  <hi>Delegacies.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Denbygh.</hi> 33. c. 13.</item>
+               <item>
+                  <hi>Deniſen.</hi> 3 c. 7. Et. 22. c. 8. Et. 32. c.
+16.</item>
+               <item>
+                  <hi>Denmarke.</hi> 1. c. 1.</item>
+               <item>
+                  <hi>Determination made by the clergy concernyng the
+pretenſed maryage betwene the kynges hyghnes, and the lady Anne of
+Cleues,</hi> 32. c. 25.</item>
+               <item>
+                  <hi>Detinue.</hi> 23. c, 15.</item>
+               <item>
+                  <hi>Dette.</hi> 23. c. 15.</item>
+               <item>
+                  <hi>Dettes due to the kynge.</hi> 24. c. 8. Et. 33. c.
+39.</item>
+               <item>
+                  <hi>Deuonſhyre.</hi> 3. c. 6. Et. 5. c. 2. Et. 6. c. 8. Et.
+23. c. 8. Et. 27. c. 23.</item>
+               <item>
+                  <hi>Diers.</hi> 24. c. 2.</item>
+               <item>
+                  <hi>Dieng of wollen clothes.</hi> 24. c. 2.</item>
+               <item>
+                  <hi>Dioceſe of Cheſter.</hi> 33. c. 31.</item>
+               <item>
+                  <hi>Diſcent.</hi> 3. c. 4. Et. 32. c. 33.</item>
+               <item>
+                  <hi>Diſgradyng.</hi> 23. c. 1.</item>
+               <item>
+                  <hi>Diſguiſyng.</hi> 3. c. 9.</item>
+               <item>
+                  <hi>Diſpenſation.</hi> 21. c 13. Et. 25. c. 21.</item>
+               <item>
+                  <hi>Diſſeiſin.</hi> 32. c. 33.</item>
+               <item>
+                  <hi>Diſtres.</hi> 4. c. 3. Et. 7. c. 4. Et. 21. c. 19. Et.
+32 c. 37. Et 33. c. 39.</item>
+               <item>
+                  <hi>Doles.</hi> 22. c. 12.</item>
+               <item>
+                  <hi>Dooues and pigions.</hi> 24, c. 10.</item>
+               <item>
+                  <hi>Doulas.</hi> 21. c. 14. Et. 28, c. 4.</item>
+               <item>
+                  <hi>Dower.</hi> 27. c. 10. Et. 32. c. 1.</item>
+               <item>
+                  <hi>Drapery.</hi> 3. c. 7. Et. 22. c. 1.</item>
+               <item>
+                  <hi>Drapyng and making of wollen clothes.</hi> 3. c.
+6.</item>
+               <item>
+                  <hi>Drouer.</hi> 25. c. 1.</item>
+               <item>
+                  <hi>Duchy of Lancaſter.</hi> 27. c. 11. Et. 32. c. 20. Et.
+33. c. 24. &amp;. 33.</item>
+               <item>
+                  <hi>Dudley.</hi> 1. c. 12. &amp;. 15.</item>
+               <item>
+                  <hi>Duke.</hi> 21. c. 13.</item>
+            </list>
+            <list>
+               <pb facs="tcp:26806:4"/>
+               <head>E</head>
+               <item>
+                  <hi>ECcleſiaſticall iudge.</hi> Anno. 28. cap. 10.</item>
+               <item>
+                  <hi>Egges of wyldfowle.</hi> 25. cap. 11.</item>
+               <item>
+                  <hi>Ely fayre.</hi> 25. c. 4.</item>
+               <item>
+                  <hi>Election of byſhops.</hi> 25. c. 20.</item>
+               <item>
+                  <hi>Embracery.</hi> 32. c. 9.</item>
+               <item>
+                  <hi>Empſon.</hi> 1. cap. 12. &amp;. 15.</item>
+               <item>
+                  <hi>Englande imperyall.</hi> 24. cap. 12.</item>
+               <item>
+                  <hi>Enchauntementes.</hi> 33. c. 8.</item>
+               <item>
+                  <hi>Endytementes.</hi> 27. c. 24.</item>
+               <item>
+                  <hi>Englyſheman.</hi> 1. c. 6.</item>
+               <item>
+                  <hi>Englyſhmen ſworne to foreyne princis.</hi> 14. &amp;
+15. cap. 4.</item>
+               <item>
+                  <hi>Englyſhe ſhyppes.</hi> 32. c. 14.</item>
+               <item>
+                  <hi>Enrolment.</hi> 23. c. 6. Et. 25. c. 21.</item>
+               <item>
+                  <hi>Enrollement of bargaynes.</hi> 27. c. 16.</item>
+               <item>
+                  <hi>Entree.</hi> 23. c. 14. &amp;. 15.</item>
+               <item>
+                  <hi>Erith.</hi> 22. c. 3.</item>
+               <item>
+                  <hi>Errours.</hi> 26. c. 1.</item>
+               <item>
+                  <hi>Eſcheker.</hi> 33. c. 39.</item>
+               <item>
+                  <hi>Eſchetour.</hi> 1. c. 8. &amp;. 10. Et 3. c. 2. Et. 33.
+c. 22.</item>
+               <item>
+                  <hi>Eſtablyſhment of the ſucceſſion of the kynges
+royal maieſty.</hi> 25. c. 22. Et. 28. c. 7.</item>
+               <item>
+                  <hi>Eſtate.</hi> 27. c. 10.</item>
+               <item>
+                  <hi>Euidence.</hi> 1. c. 8. Et 3. c. 2.</item>
+               <item>
+                  <hi>Exactions in Hulle.</hi> 27. c. 3. Et. 33. c. 33.</item>
+               <item>
+                  <hi>Exactions in Wales.</hi> 27. c. 7.</item>
+               <item>
+                  <hi>Exceſter</hi> 31. c. 4.</item>
+               <item>
+                  <hi>Excommengement.</hi> 23. c. 3.</item>
+               <item>
+                  <hi>Exe the ryuer.</hi> 31. c. 4.</item>
+               <item>
+                  <hi>Execution for contentation of debtes.</hi> 32. c.
+5.</item>
+               <item>
+                  <hi>Execution of ſtatutes.</hi> 33. c. 10.</item>
+               <item>
+                  <hi>Executour.</hi> 21. c. 4. &amp;. 5. Et. 25. c. 13.</item>
+               <item>
+                  <hi>Exigend.</hi> 4. c. 4. Et. 6. c. 4.</item>
+               <item>
+                  <hi>Expoſition of the ſtatute of fynes.</hi> 32. c.
+36.</item>
+               <item>
+                  <hi>Expoſition of the ſtatute of ſhyppynge of
+clo<g ref="char:EOLhyphen"/>thes.</hi> 33. c. 19.</item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>
+                  <hi>FAculties.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Fayres.</hi> 14 &amp;. 15. c. 1.</item>
+               <item>
+                  <hi>Faires in Lyn</hi> 33. c. 34.</item>
+               <item>
+                  <hi>Falmouth.</hi> 23. c. 8.</item>
+               <item>
+                  <hi>Farthynges.</hi> 14. &amp;. 15. c. 12.</item>
+               <item>
+                  <hi>Fees.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Felon.</hi> 21. c. 2.</item>
+               <item>
+                  <hi>Felony</hi> 1. c. 13. Et. 3. c. 1. &amp;. 5. Et. 21. c.
+7. Et. 22. c. 11. Et. 23 c. 11. &amp;. 16. Et. 25. c. 6. Et. 28. c. 1. &amp;.
+2. Et. 31. c. 2. 12. &amp;. 14. Et. 32. c. 6. &amp;. 11. Et 33. c. 8. 12.
+&amp;. 14.</item>
+               <item>
+                  <hi>Felowſhyp of the Trinity.</hi> 5. c. 7.</item>
+               <item>
+                  <hi>Feoffement.</hi> 1. c. 15. Et. 3. c. 4. Et. 23. c. 10.
+Et. 31. c. 13 Et. 32. c. 28.</item>
+               <item>
+                  <hi>Feries.</hi> 6. c. 7. Et. 26. c. 5.</item>
+               <item>
+                  <hi>Fermes.</hi> 25. c. 13. Et. 32. c. 28.</item>
+               <item>
+                  <hi>Fermer.</hi> 25. c. 1</item>
+               <item>
+                  <hi>Fermes taken by ſpiritual men.</hi> 21. c. 13.</item>
+               <item>
+                  <hi>Fermers of ſpirituall perſons.</hi> 26. c. 17.</item>
+               <item>
+                  <hi>Feſantes.</hi> 32. c. 8.</item>
+               <item>
+                  <hi>Filiſour.</hi> 4. c. 4.</item>
+               <item>
+                  <hi>Fyne.</hi> 3. c. 4. Et. 32. c. 28. &amp;. 36.</item>
+               <item>
+                  <hi>Fines and recoueryes.</hi> 31. c. 13.</item>
+               <item>
+                  <hi>Fines for alienation.</hi> 32. c. 1.</item>
+               <item>
+                  <hi>Fyrſt fruictes.</hi> 25. c. 20. Et. 26. c. 3. Et. 27.
+c. 8. Et. 28. c. 11. Et. 32. c. 45.</item>
+               <item>
+                  <hi>Fiſhe.</hi> 1. c. 1. Et. 25. c. 4.</item>
+               <item>
+                  <hi>Fiſhe bought vpon or beyond the ſea.</hi> 33. c.
+2.</item>
+               <item>
+                  <hi>Fiſher eſtraunger.</hi> 33. c. 2.</item>
+               <item>
+                  <hi>Fiſhgarthes.</hi> 23. c. 18.</item>
+               <item>
+                  <hi>Fiſhyng</hi> 31. c. 2.</item>
+               <item>
+                  <hi>Flax.</hi> 24. c. 4. Et. 28. c. 9. Et. 31. c. 7. Et. 33.
+c. 17</item>
+               <item>
+                  <hi>Fleſh ſolde by weyght.</hi> 24. c. 3.</item>
+               <item>
+                  <hi>Fleſh to be ſold by retaile.</hi> 33. c. 11.</item>
+               <item>
+                  <hi>Fletchers.</hi> 33. c. 9.</item>
+               <item>
+                  <hi>Flint ſhyre.</hi> 33. c. 13.</item>
+               <item>
+                  <hi>Flockes.</hi> 3. c. 6.</item>
+               <item>
+                  <hi>Folding of clothes in Northwales.</hi> 33. c. 3.</item>
+               <item>
+                  <hi>Fordwiche</hi> 6. c. 17.</item>
+               <item>
+                  <hi>Forein pleas.</hi> 4. c. 2. Et. 22. c, 2. &amp;. 14. Et.
+31. c. 14. Et. 32. c. 3.</item>
+               <item>
+                  <hi>Foreſt.</hi> 31. c. 12.</item>
+               <item>
+                  <hi>Foreſt of Deſne.</hi> 26. c. 5.</item>
+               <item>
+                  <hi>Foreſt in Wales.</hi> 27. c. 7.</item>
+               <item>
+                  <hi>Forſtallyng.</hi> 25. c. 4.</item>
+               <item>
+                  <hi>Fourmedone.</hi> 32. c. 2.</item>
+               <item>
+                  <hi>Fowey</hi> 23 c. 8.</item>
+               <item>
+                  <hi>Fowles not comeſtible.</hi> 25. c. 11.</item>
+               <item>
+                  <hi>Fraight from London to dyuers portes of be<g ref="char:EOLhyphen"/>yond the
+ſea.</hi> 32. c 14.</item>
+               <item>
+                  <hi>Fraunchiſes</hi> 32. c. 20.</item>
+               <item>
+                  <hi>Free man of London.</hi> 14. &amp;. 15. c. 1.</item>
+               <item>
+                  <hi>Fruictes of the vacation.</hi> 28. c. 11.</item>
+               <item>
+                  <hi>Fry of yeles and ſalmon.</hi> 25. c. 7.</item>
+               <item>
+                  <hi>Fuller.</hi> 3. c. 6. &amp;. 7.</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>
+                  <hi>GAmes vnlaufull</hi> 33. c. 9.</item>
+               <item>
+                  <hi>Gaoles.</hi> 23. c. 2. Et. 28. c. 9. Et. 31. c. 7. Et 33.
+c. 17.</item>
+               <item>
+                  <hi>Gardian of ſpiritualties.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Gauelkynd.</hi> 31. c. 3.</item>
+               <item>
+                  <hi>Gauger.</hi> 23. c. 7. Et. 28. c. 14.</item>
+               <item>
+                  <hi>Gaugyng.</hi> 23. c. 7. Et 28. c. 14.</item>
+               <item>
+                  <hi>Geldyng.</hi> 22. c. 7. Et. 23. c. 16.</item>
+               <item>
+                  <hi>Glouceſter.</hi> 33. c. 35.</item>
+               <item>
+                  <hi>Gores.</hi> 14. &amp;. 15. c. 13. Et. 41. c. 18.</item>
+               <item>
+                  <hi>Gouernour of marchauntes.</hi> 14. &amp;. 15. c.
+4.</item>
+               <item>
+                  <hi>Gouernours of ſaintuaries.</hi> 32. c. 12.</item>
+               <item>
+                  <hi>Graduat.</hi> 14. &amp;. 15. c. 5.</item>
+               <item>
+                  <hi>Graffers.</hi> 5. c. 1.</item>
+               <item>
+                  <hi>Grand maiſter dhoſtel du roy.</hi> 32. c. 39.</item>
+               <item>
+                  <hi>Grantees to take aduantage vpon the leſſees.</hi> 32.
+c. 34.</item>
+               <item>
+                  <hi>Graſier.</hi> 25. c. 1.</item>
+               <item>
+                  <hi>Grotes.</hi> 14. &amp;. 15. c. 12.</item>
+               <item>
+                  <hi>Guiſnes.</hi> 14. &amp;. 15. c. 14.</item>
+            </list>
+            <list>
+               <pb facs="tcp:26806:4"/>
+               <head>H</head>
+               <item>
+                  <hi>HAberdepois.</hi> Anno 24. c. 3.</item>
+               <item>
+                  <hi>Halfe angels.</hi> 14. &amp;. 15. c. 12.</item>
+               <item>
+                  <hi>Halfe pence.</hi> 14. &amp;. 15. c. 12.</item>
+               <item>
+                  <hi>Hammes.</hi> 14. &amp;. 15. c. 14.</item>
+               <item>
+                  <hi>Hanaper.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Handgunnes.</hi> 6. c. 13. Et. 14. &amp;. 15. c. 7. Et.
+25. c. 17. Et. 33. c. 6.</item>
+               <item>
+                  <hi>Handy crafte.</hi> 21. c. 16.</item>
+               <item>
+                  <hi>Handy craftes men</hi> 22. c. 13.</item>
+               <item>
+                  <hi>Hauens and portes.</hi> 27. c. 23.</item>
+               <item>
+                  <hi>Hauen of Southhamton.</hi> 14. &amp;. 15. c. 13.</item>
+               <item>
+                  <hi>Haukes egges or birdes.</hi> 31. c. 12. Et. 32. c.
+11.</item>
+               <item>
+                  <hi>Head offycers.</hi> 4. c. 7. Et. 6. c. 2. &amp;. 9. Et.
+23. c. 4. &amp;. 7. Et. 24. c. 13. &amp;. 6. Et. 28. c. 14. Et. 33. c.
+9.</item>
+               <item>
+                  <hi>Hearynges.</hi> 33 c. 2.</item>
+               <item>
+                  <hi>Hempe.</hi> 21. c. 12. Et. 24. c. 4. Et. 28. c. 9. Et.
+31. c. 7. Et. 33. c. 17.</item>
+               <item>
+                  <hi>Hereſy.</hi> 23. c. 9. Et. 25. c. 14. Et. 31. c. 8.
+&amp;. 14.</item>
+               <item>
+                  <hi>Heriottis.</hi> 32. c. 1.</item>
+               <item>
+                  <hi>Hexam.</hi> 27. c. 25.</item>
+               <item>
+                  <hi>Hides vntanned.</hi> 27. c. 14.</item>
+               <item>
+                  <hi>High treaſon.</hi> 26. c. 13 Et. 27. c. 2. Et. 28. c.
+7.</item>
+               <item>
+                  <hi>High wayes.</hi> 22. c. 5.</item>
+               <item>
+                  <hi>Hine.</hi> 6 c. 3.</item>
+               <item>
+                  <hi>Holow wares of pewter.</hi> 4. c. 7.</item>
+               <item>
+                  <hi>Honour of Hampton courte.</hi> 31. c. 5.</item>
+               <item>
+                  <hi>Honour of Ampthill.</hi> 33. c. 37.</item>
+               <item>
+                  <hi>Honour of Grafton.</hi> 33. c. 38.</item>
+               <item>
+                  <hi>Horſebred</hi> 32. c. 41.</item>
+               <item>
+                  <hi>Horſes.</hi> 22. c. 7. Et. 23. c. 16. Et. 27. c. 6. Et.
+28. c. 6. Et. 31. c. 7. Et. 32. c. 6. &amp;. 13. Et. 33. c. 5 &amp;. 17.</item>
+               <item>
+                  <hi>Horſe, geldyng, or mare conueyed in to Scot<g ref="char:EOLhyphen"/>land.</hi>
+22. c. 7.</item>
+               <item>
+                  <hi>Hoſpitality.</hi> 21. c. 13.</item>
+               <item>
+                  <hi>Hoſpitals.</hi> 22. c. 12.</item>
+               <item>
+                  <hi>Hoſpital of ſ. Iohn<g ref="char:cmbAbbrStroke">̄</g>s Hieruſalem.</hi> 32. c.
+24.</item>
+               <item>
+                  <hi>Houſe of huſbandry.</hi> 7. c. 1.</item>
+               <item>
+                  <hi>Houſes decayed to be reedified.</hi> 32. c. 18. &amp;.
+19.</item>
+               <item>
+                  <hi>Humber.</hi> 23. c. 13.</item>
+               <item>
+                  <hi>Huntyng with couered or paynted face.</hi> 31. c. 12 Et
+32. c. 11</item>
+               <item>
+                  <hi>Huntyng of the hare.</hi> 14. &amp;. 15. c. 10.</item>
+               <item>
+                  <hi>Huſbandry.</hi> 6. c. 5. Et. 7. c. 1. Et. 27. c.
+22.</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>
+                  <hi>IDiottis.</hi> 32. c. 46.</item>
+               <item>
+                  <hi>Ieofayles</hi> 32. c. 30. Et. 33. c. 17.</item>
+               <item>
+                  <hi>Iewel of golde.</hi> 3. c. 1. Et. 27. c. 17.</item>
+               <item>
+                  <hi>Incloſure.</hi> 6. c. 5. Et. 27. c. 22.</item>
+               <item>
+                  <hi>Incontinency of priſtes.</hi> 31. c. 14. Et. 32. c.
+10.</item>
+               <item>
+                  <hi>Incumbent.</hi> 26. c. 3. Et. 28. c. 11</item>
+               <item>
+                  <hi>Inditementes.</hi> 6. c. 6.</item>
+               <item>
+                  <hi>Indulgences.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Infant.</hi> 32. c. 2.</item>
+               <item>
+                  <hi>Information.</hi> 1. c. 5.</item>
+               <item>
+                  <hi>Inholder.</hi> 32. c. 41.</item>
+               <item>
+                  <hi>Iniunction.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Impriſonment.</hi> 31. c. 14.</item>
+               <item>
+                  <hi>Inqueſtes.</hi> 1. c. 10. Et. 4. c. 2. Et 26. c.
+4.</item>
+               <item>
+                  <hi>Inquiſition.</hi> 1. c. 8. &amp;. 12. Et. 3. c. 2. Et.
+33. c. 39.</item>
+               <item>
+                  <hi>Intruſion.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Inuentory.</hi> 21. c. 5.</item>
+               <item>
+                  <hi>Inuocation of ſpirites.</hi> 33 c. 8.</item>
+               <item>
+                  <hi>Iointenantes.</hi> 31. c. 1. Et. 32. c. 32.</item>
+               <item>
+                  <hi>Ioyners.</hi> 14. &amp;. 15. c. 2.</item>
+               <item>
+                  <hi>Iointer.</hi> 27. c. 10. Et. 32. c. 1.</item>
+               <item>
+                  <hi>Iourneyman.</hi> 14. &amp;. 15. c. 2. Et. 28. c.
+5.</item>
+               <item>
+                  <hi>Iron.</hi> 6. c. 3.</item>
+               <item>
+                  <hi>Iuges of the high courtes.</hi> 25. c. 16.</item>
+               <item>
+                  <hi>Iurour.</hi> 26. c. 4.</item>
+               <item>
+                  <hi>Iury.</hi> 1. c. 8. Et. 3. c. 2. Et. 4. c. 3. Et. 5. c.
+5.</item>
+               <item>
+                  <hi>Iuſtyce to be miniſtred in Wales.</hi> 26. c. 6. Et.
+27. c. 26.</item>
+               <item>
+                  <hi>Iuſtyces of aſſiſe.</hi> 1. c. 6. &amp;. 7. Et.
+32. c. 9. Et. 33. c. 1. 5. 9. &amp;. 24.</item>
+               <item>
+                  <hi>Iuſtyces of forreſtes.</hi> 32. c. 35. Et. 33. c. 38.
+&amp;. 39</item>
+               <item>
+                  <hi>Iuſtyces of Northwales.</hi> 26. c. 6.</item>
+               <item>
+                  <hi>Iuſtices of peace, Quorum, and gaoldeliuery in
+Wales.</hi> 27. c. 5.</item>
+               <item>
+                  <hi>Iuſtyces of peace.</hi> 1. c. 6. 7. &amp;. 8. Et. 3. c.
+2. 3. 5. &amp;. 9. Et. 4. c. 1. &amp;. 7. Et 6. c. 2. 3. &amp;. 7. Et. 14
+&amp;. 15. c. 6. 7. &amp;. 8. Et. 22. c. 5. 9. 10. 11. 12. &amp;. 14. Et. 23.
+c. 1. 2. 4. 8. 16 &amp;. 18. Et. 24. c. 1. 3. 4 6. 7. 9. 10. &amp;. 13. Et. 25.
+c. 1. 6. 7. 8. 11. 13. &amp;. 14. Et. 26. c. 5. 6. &amp;. 12. Et. 27. c. 7. 16.
+20. 23 &amp;. 24. Et. 28. c. 10. &amp;. 14. Et. 31. c. 8. &amp;. 14. Et. 32. c.
+7. 13. 17. &amp;. 41. Et. 33. c. 1. 5. 6. 9. &amp;. 10.</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>
+                  <hi>KEndal clothes.</hi> Anno. 3. c. 6. &amp;. 6. c.
+9.</item>
+               <item>
+                  <hi>Kent.</hi> 31 c. 3.</item>
+               <item>
+                  <hi>Kepers of feries.</hi> 26. c. 5.</item>
+               <item>
+                  <hi>Keper of the priuy ſeale</hi> 21. c. 20.</item>
+               <item>
+                  <hi>Kerſey.</hi> 27. c. 12. Et. 33. c. 18.</item>
+               <item>
+                  <hi>Killyng a thiefe.</hi> 24. c. 5.</item>
+               <item>
+                  <hi>Killyng of calues and weinlynges.</hi> 21. c. 8. Et. 28.
+c. 8. Et. 33 c. 17.</item>
+               <item>
+                  <hi>Kynges benche.</hi> 6. c. 6.</item>
+               <item>
+                  <hi>Kyngſton vpon Hull.</hi> 27. c. 3. Et. 33. c.
+33.</item>
+               <item>
+                  <hi>Knightes ſeruyce.</hi> 32. c. 1.</item>
+               <item>
+                  <hi>Knightes of ſhyres.</hi> 6. c. 16. Et. 27. c.
+26.</item>
+               <item>
+                  <hi>Knyghtes of the Rhodes.</hi> 32. c. 24.</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>
+                  <hi>LAborers</hi> 4. c. 5. Et. 6. c. 3.</item>
+               <item>
+                  <hi>Lady Anne Bolein.</hi> 28. c. 7.</item>
+               <item>
+                  <hi>Lady Anne of Cleue.</hi> 32. c. 25.</item>
+               <item>
+                  <hi>Lambes.</hi> 25. c. 13.</item>
+               <item>
+                  <hi>Landes that belonged to religious houſes.</hi> 31. c.
+13.</item>
+               <item>
+                  <hi>Landes gyuen by the kynges letters patentes.</hi> 31. c.
+13.</item>
+               <item>
+                  <hi>Landes diſpoſed by wyll or teſtament.</hi> 32. c.
+1.</item>
+               <item>
+                  <hi>Landes cuſtomable or partible.</hi> 32. c. 29.</item>
+               <item>
+                  <hi>Laten.</hi> 21. c. 10.</item>
+               <item>
+                  <hi>Lawes vſed in wales.</hi> 27. c. 26.</item>
+               <item>
+                  <hi>Lay mettall.</hi> 4. c. 7.</item>
+               <item>
+                  <pb facs="tcp:26806:5"/>
+                  <hi>Leaſes.</hi> 21. c. 15. Et. 27. c. 27. Et.
+31. c. 13. Et. 32. c. 16. &amp;. 28. Et. 33. c 37. 38. &amp;. 39.</item>
+               <item>
+                  <hi>Leaſes of hoſpitals, colleges, and corporations.</hi>
+33. c. 27.</item>
+               <item>
+                  <hi>Leden hall.</hi> 24. c. 1.</item>
+               <item>
+                  <hi>Lether.</hi> 3. c 10. Et. 5 c. 7. Et. 24. c. 1. Et. 27.
+c. 14</item>
+               <item>
+                  <hi>Letters of inſtitution.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Letters patentes.</hi> 1 c. 9. Et. 3. c. 2. Et. 4. c. 7.
+Et. 6. c. 15. Et. 21. c. 17. Et. 26. c. 14. Et. 27. c. 24. Et. 28. c. 7. Et 31.
+c. 9. Et. 32. c. 16. 20. 26. &amp;. 27. Et. 33. c. 21. &amp;. 39</item>
+               <item>
+                  <hi>Liberties.</hi> 27. c. 24. Et. 32. c. 20.</item>
+               <item>
+                  <hi>Lycence.</hi> 1. c. 13. Et. 3. c. 1. &amp;. 3. Et. 6. c.
+16. Et. 7. c. 2. Et. 22. c. 7. Et. 25. c. 2. &amp;. 21.</item>
+               <item>
+                  <hi>Limitation.</hi> 32. c. 2.</item>
+               <item>
+                  <hi>Limittes and boundes of the kynges howſe.</hi> 33. c.
+12.</item>
+               <item>
+                  <hi>Linne.</hi> 14. &amp;. 15. c. 3. Et. 21. c. 27. Et. 26.
+c. 9. &amp;. 16. Et. 33. c. 34.</item>
+               <item>
+                  <hi>Lin ſeede.</hi> 24. c. 4.</item>
+               <item>
+                  <hi>Linnen draper.</hi> 21. c. 14.</item>
+               <item>
+                  <hi>Liuery.</hi> 1. c. 12. Et. 32. c. 1. Et. 33. c.
+22.</item>
+               <item>
+                  <hi>Liuery and ſeaſon.</hi> 27. c. 10.</item>
+               <item>
+                  <hi>Lockeram.</hi> 21. c. 14. Et. 28. c, 4.</item>
+               <item>
+                  <hi>London.</hi> 1. c. 5 Et. 3. c. 7. 8. 10. &amp;. 14. Et.
+4. c. 3. 4. &amp; 7. Et 5. c. 5. &amp;. 7. Et. 6. c. 4. Et. 14. &amp;. 15. c.
+2. &amp;. 5. Et. 21. c. 16. Et 23. c. 4. &amp;. 6. Et. 24. c. 1. Et. 27. c. 24.
+Et. 32. c. 7. &amp;. 20. Et. 33. c. 6.</item>
+               <item>
+                  <hi>Longbowes.</hi> 33. c 9.</item>
+               <item>
+                  <hi>Lord great maiſter.</hi> 32. c. 39.</item>
+               <item>
+                  <hi>Lorde preſident and counſayle of the marches.</hi>
+26. c. 4.</item>
+               <item>
+                  <hi>Lordſhyp marchers.</hi> 26. c. 6. Et. 27. c. 26.</item>
+               <item>
+                  <hi>Lunacy.</hi> 33. c. 20.</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>
+                  <hi>MAdnes.</hi> Anno. 33. c. 20.</item>
+               <item>
+                  <hi>Mainteinaunce.</hi> 32. c. 9.</item>
+               <item>
+                  <hi>Maitenaunce of tyllage.</hi> 25. c. 13.</item>
+               <item>
+                  <hi>Maire.</hi> 3. c. 14. Et. 4. c. 1. Et. 21. c. 2. Et. 22
+c. 12. &amp;. 14. Et. 24. c. 4. Et. 25. c. 1. Et. 31. c. 14. Et. 33. c. 9.
+&amp;. 24.</item>
+               <item>
+                  <hi>Maire of London.</hi> 3. c. 14. Et. 6. c. 7. Et 25. c. 8.
+Et. 32. c. 17.</item>
+               <item>
+                  <hi>Maire and conſtable of the ſtaple.</hi> 23. c.
+6.</item>
+               <item>
+                  <hi>Maiſter of the kynges horſes</hi> 22. c. 7.</item>
+               <item>
+                  <hi>Maiſter of the rolles.</hi> 14. &amp;. 15. c. 8.</item>
+               <item>
+                  <hi>Maiſter of the liueries.</hi> 32. c. 46. Et. 33. c.
+22.</item>
+               <item>
+                  <hi>Maiſter of the wardes.</hi> 32. c. 46. Et. 33. c.
+22.</item>
+               <item>
+                  <hi>Maiſter of the woodes.</hi> 33. c. 39.</item>
+               <item>
+                  <hi>Maiſter and Miſtres.</hi> 27. c. 17.</item>
+               <item>
+                  <hi>Makers of croſebowes.</hi> 33 c. 6.</item>
+               <item>
+                  <hi>Mancheſter</hi> 33. c. 15.</item>
+               <item>
+                  <hi>Marchantes.</hi> 1 c. 6. Et. 4. c. 5. Et. 21. c. 18.
+&amp;. 21 Et. 23. c. 7. Et 24. c. 6. Et. 32. c. 14.</item>
+               <item>
+                  <hi>Marchantes ſtraungers.</hi> 6. c. 11. Et. 14. &amp;.
+15. c 1. Et. 22. c. 1. &amp;. 8. Et. 32. c. 14.</item>
+               <item>
+                  <hi>Marches of Caleys.</hi> 6. c. 10</item>
+               <item>
+                  <hi>Mares.</hi> 22. c. 7. Et. 23. c. 16. Et. 27. c. 6. Et.
+28. c. 6. Et. 31. c. 7. Et. 33. c. 17.</item>
+               <item>
+                  <hi>Mariages.</hi> 25. c. 21. Et 32. c. 38.</item>
+               <item>
+                  <hi>Mariners.</hi> 32. c. 14.</item>
+               <item>
+                  <hi>Marke.</hi> 3. c. 15. Et. 5. c. 2. Et. 6. c. 8. &amp;. 9.
+Et. 14 &amp;. 15. c. 2. Et. 27. c. 12.</item>
+               <item>
+                  <hi>Markettes.</hi> 5. c. 7.</item>
+               <item>
+                  <hi>Marſhalſey court.</hi> 33. c 12.</item>
+               <item>
+                  <hi>Metropolitane.</hi> 25. c. 20.</item>
+               <item>
+                  <hi>Milles.</hi> 6. c. 17. Et. 23. c. 5.</item>
+               <item>
+                  <hi>Minours.</hi> 6. c. 3.</item>
+               <item>
+                  <hi>Miſauenture.</hi> 1. c. 7.</item>
+               <item>
+                  <hi>Miſpleadyng.</hi> 32. c. 30. Et. 33. c. 17.</item>
+               <item>
+                  <hi>Miſpriſion of treaſon.</hi> 25. c. 22. Et. 33. c.
+21.</item>
+               <item>
+                  <hi>Money.</hi> 1. c. 13. Et. 3. c. 1.</item>
+               <item>
+                  <hi>Mortuaries.</hi> 21. c. 6.</item>
+               <item>
+                  <hi>Motes.</hi> 31. c. 2.</item>
+               <item>
+                  <hi>Muet.</hi> 25. c. 3. Et. 28. c. 1. Et. 32. c. 3.</item>
+               <item>
+                  <hi>Mummers.</hi> 3. c. 9.</item>
+               <item>
+                  <hi>Murder.</hi> 4. c. 2. Et. 32. c. 12.</item>
+               <item>
+                  <hi>Mynt.</hi> 14. &amp;. 15. c. 12.</item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>
+                  <hi>NAgges.</hi> Anno. 27. c. 6.</item>
+               <item>
+                  <hi>Nauy.</hi> 7. c. 2. Et. 23. c. 7. Et. 32. c. 14.</item>
+               <item>
+                  <hi>Nette.</hi> 24 c. 10. Et. 25. c. 7. &amp;. 11.</item>
+               <item>
+                  <hi>Newcaſtell.</hi> 21. c. 18.</item>
+               <item>
+                  <hi>Nomination of.</hi> 32. <hi>perſons.</hi> 27. c.
+15.</item>
+               <item>
+                  <hi>Nonſuite.</hi> 23. c. 15. Et. 24. c. 8.</item>
+               <item>
+                  <hi>Norfolke.</hi> 21. c. 21.</item>
+               <item>
+                  <hi>Norffolke wolles.</hi> 6. c. 12.</item>
+               <item>
+                  <hi>Northern whites.</hi> 14. &amp;. 15. c. 1.</item>
+               <item>
+                  <hi>Norwiche.</hi> 5 c. 4. Et. 14. &amp;. 15. c. 3. Et. 21.
+c. 21. Et. 23. c. 10. Et. 25. c. 5. Et. 26. c. 8. &amp;. 16.</item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>
+                  <hi>OBligation.</hi> 23. c. 6. Et. 26. c. 3.</item>
+               <item>
+                  <hi>Offerynges.</hi> 27. c. 20. Et. 32 c. 7.</item>
+               <item>
+                  <hi>Offyce.</hi> 1 c. 8 &amp;. 10. Et. 3. c. 2. Et. 33. c.
+22.</item>
+               <item>
+                  <hi>Officer of the eſc<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>quer.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Offycers and miniſters of blockehouſes and
+bulwarkes.</hi> 32. c. 43.</item>
+               <item>
+                  <hi>Officers in Berwike, Caleys, and the marches</hi> 32. c.
+27.</item>
+               <item>
+                  <hi>Officials.</hi> 32. c. 15.</item>
+               <item>
+                  <hi>Oiles.</hi> 3. c. 14.</item>
+               <item>
+                  <hi>Opinions.</hi> 32 c. 26.</item>
+               <item>
+                  <hi>Orders.</hi> 23. c. 1. &amp;. 11. Et. 28. c. 1. Et. 32.
+c. 3.</item>
+               <item>
+                  <hi>Ordinary</hi> 21. c. 5. Et 23. c. 1. &amp;. 11. Et. 25.
+c. 14. Et. 26. c. 12. Et. 27. c. 20. Et. 31. c. 14. Et. 32. c. 7.</item>
+               <item>
+                  <hi>Oſwaldbecke</hi> 32. c. 29.</item>
+               <item>
+                  <hi>Othe.</hi> 1 c. 8. Et. 3. c. 2. Et. 14. &amp;. 15 c. 3.
+Et. 21 c. 16. &amp;. 21. Et. 22. c. 7. Et. 23 c. 3. Et. 25. c. 20. Et. 26. c.
+2. 4. &amp;. 13. Et. 28. c. 7. &amp;. 10.</item>
+               <item>
+                  <hi>Ouſe.</hi> 23. c. 18.</item>
+               <item>
+                  <hi>Outlaury.</hi> 4. c. 4. Et. 6. c. 4. Et. 23. c. 14. Et.
+26. c. 13.</item>
+               <item>
+                  <hi>Out of the realme.</hi> 32. c. 2.</item>
+               <item>
+                  <hi>Oxforde.</hi> 3. c. 11. Et. 21. c. 16. Et. 24. c. 13. Et.
+32. c. 16. &amp;. 23.</item>
+               <item>
+                  <hi>Oxen, ſteeres, kyen. &amp;c.</hi> 22. c. 7.</item>
+            </list>
+            <list>
+               <pb facs="tcp:26806:5"/>
+               <head>P</head>
+               <item>
+                  <hi>PAcker of lether.</hi> 27. c. 14.</item>
+               <item>
+                  <hi>Pall.</hi> 25. c. 20.</item>
+               <item>
+                  <hi>Palaice of Weſtminſter.</hi> 28. c. 12.</item>
+               <item>
+                  <hi>Panels.</hi> 1. c. 11. Et. 3. c. 12. Et. 5. c. 5.</item>
+               <item>
+                  <hi>Pardon.</hi> 6. c. 18. Et. 28. c. 7. Et. 32. c.
+25.</item>
+               <item>
+                  <hi>Pardon general.</hi> 5. c. 8. Et. 21. c. 1. Et. 22. c.
+15. &amp; 16. Et. 23. c. 19. Et. 26. c 18. Et. 32. c. 49.</item>
+               <item>
+                  <hi>Pariſhe of Ouer.</hi> 33. c. 32.</item>
+               <item>
+                  <hi>Pariſh of Roiſton.</hi> 32. c. 44.</item>
+               <item>
+                  <hi>Pariſhe of whytegate.</hi> 33. c. 32.</item>
+               <item>
+                  <hi>Parkes.</hi> 6. c. 5. Et. 7. c. 1. Et. 27. c. 6. &amp;.
+22. Et. 31. c. 12. Et. 32. c. 11.</item>
+               <item>
+                  <hi>Parliament</hi> 4. c. 8. Et. 6. c. 16.</item>
+               <item>
+                  <hi>Partriches.</hi> 32 c. 8.</item>
+               <item>
+                  <hi>Paſture.</hi> 6. c. 5. Et. 7. c. 1. Et. 27. c.
+22.</item>
+               <item>
+                  <hi>Patent.</hi> 1 c. 8.</item>
+               <item>
+                  <hi>Patentee.</hi> 6. c. 15.</item>
+               <item>
+                  <hi>Pauing betwene Stronde croſſe and Charyng
+croſſe.</hi> 24. c. 11.</item>
+               <item>
+                  <hi>Pauing of Holburne and other places within the citie</hi>
+25. c. 8.</item>
+               <item>
+                  <hi>Pauyng of ſhowe lane with other.</hi> 32. c. 17.</item>
+               <item>
+                  <hi>Penalties.</hi> 4. c. 5.</item>
+               <item>
+                  <hi>Peremptory chalenge.</hi> 22. c. 14.</item>
+               <item>
+                  <hi>Periury.</hi> 1. c. 11. Et. 25. c 3. Et. 26. c. 4. Et.
+28. c. 9</item>
+               <item>
+                  <hi>Perpetual pryſon.</hi> 26. c. 12.</item>
+               <item>
+                  <hi>Perſonage.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Perſonages appropriated.</hi> 31. c. 13.</item>
+               <item>
+                  <hi>Perſonage or vicarage let to terme.</hi> 28. c. 11. Et.
+32. c. 28.</item>
+               <item>
+                  <hi>Peterpence.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Peuterers.</hi> 4. c. 7. Et. 25. c. 9. Et. 28. c. 9. Et.
+21 c. 7. Et. 33. c. 4.</item>
+               <item>
+                  <hi>Phiſyke.</hi> 3 c. 11.</item>
+               <item>
+                  <hi>Phiſitions</hi> 14. &amp;. 15. c. 5. Et. 32. c.
+40.</item>
+               <item>
+                  <hi>Pieres of the realme</hi> 32. c. 4. Et. 33 c. 20.</item>
+               <item>
+                  <hi>Pipouders.</hi> 25. c. 4.</item>
+               <item>
+                  <hi>Placard.</hi> 33. c. 6 &amp; 9.</item>
+               <item>
+                  <hi>Placyng of lordes.</hi> 31. c. 10.</item>
+               <item>
+                  <hi>Playnt</hi> 21. c 3.</item>
+               <item>
+                  <hi>Plate.</hi> 1. c. 13. Et. 3 c. 1.</item>
+               <item>
+                  <hi>Plimmouth.</hi> 4. c. 1. Et. 23. c. 8.</item>
+               <item>
+                  <hi>Plumſted marſhes.</hi> 22. c. 3.</item>
+               <item>
+                  <hi>Pluralities of benefices.</hi> 25. c. 21.</item>
+               <item>
+                  <hi>Poiſoning.</hi> 22. c. 9.</item>
+               <item>
+                  <hi>Pondes.</hi> 31. c. 2.</item>
+               <item>
+                  <hi>Poore ſuiters.</hi> 23. c. 15.</item>
+               <item>
+                  <hi>Porpoſe.</hi> 33. c. 2.</item>
+               <item>
+                  <hi>Poticary.</hi> 32. c. 40.</item>
+               <item>
+                  <hi>Pouchemaker.</hi> 14. &amp;. 15. c. 2.</item>
+               <item>
+                  <hi>Power regal.</hi> 31. c. 8.</item>
+               <item>
+                  <hi>Powdyke.</hi> 22. c. 11.</item>
+               <item>
+                  <hi>Prebend.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Precontractes of mariage.</hi> 32. c. 38.</item>
+               <item>
+                  <hi>Prelates.</hi> 23. c. 1.</item>
+               <item>
+                  <hi>Prerogatiue of the corowne.</hi> 27. c. 24.</item>
+               <item>
+                  <hi>Preſcription</hi> 32. c. 2.</item>
+               <item>
+                  <hi>Preſentation.</hi> 25. c. 20.</item>
+               <item>
+                  <hi>Preſident of the kinges counſeile.</hi> 21. c.
+10.</item>
+               <item>
+                  <hi>Primer ſeaſon.</hi> 32. c. 1.</item>
+               <item>
+                  <hi>Printers and binders of bookes.</hi> 25. c. 15.</item>
+               <item>
+                  <hi>Priſage.</hi> 1. c. 6.</item>
+               <item>
+                  <hi>Priſing of vitailes.</hi> 25. c. 2.</item>
+               <item>
+                  <hi>Priſing of wines.</hi> 23. c. 7. Et. 28. c. 14.</item>
+               <item>
+                  <hi>Priſoner.</hi> 6. c. 6.</item>
+               <item>
+                  <hi>Priuat maſſes.</hi> 31. c. 14.</item>
+               <item>
+                  <hi>Priuileged places.</hi> 32. c. 12.</item>
+               <item>
+                  <hi>Priuileges.</hi> 32. c. 20.</item>
+               <item>
+                  <hi>Probat of teſtamentes.</hi> 21. c. 5. Et. 23. c.
+9.</item>
+               <item>
+                  <hi>Proces in hereſy.</hi> 31. c. 14.</item>
+               <item>
+                  <hi>Proclamation.</hi> 4. c. 4. Et. 6. c. 4. Et. 26. c. 10
+Et. 31. c. 8.</item>
+               <item>
+                  <hi>Prohibitions of mariage.</hi> 28. c. 7.</item>
+               <item>
+                  <hi>Prophecies.</hi> 33. c. 14.</item>
+               <item>
+                  <hi>Protection.</hi> 3. c. 4.</item>
+               <item>
+                  <hi>Prouince of Yorke.</hi> 32. c. 23. Et. 33. c. 31.</item>
+               <item>
+                  <hi>Prouiſion and premunire.</hi> 24. c. 12. Et. 25. c.
+20.</item>
+               <item>
+                  <hi>Prouoſt.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Purgation.</hi> 23. c. 1. Et. 26. c. 12.</item>
+               <item>
+                  <hi>Punyſhment of Walſhmen.</hi> 26. c. 11.</item>
+               <item>
+                  <hi>Purueyours.</hi> 27. c. 24.</item>
+               <item>
+                  <hi>Pirates.</hi> 27. c. 4. Et. 28. c. 15.</item>
+            </list>
+            <list>
+               <head>Q</head>
+               <item>
+                  <hi>QVeene Iane.</hi> 28. c. 7.</item>
+               <item>
+                  <hi>Quillettes of landes.</hi> 25. c. 13.</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>
+                  <hi>RAyes.</hi> 3. c. 7.</item>
+               <item>
+                  <hi>Rauiſhment</hi> 32. c. 12.</item>
+               <item>
+                  <hi>Receit.</hi> 1. c. 3.</item>
+               <item>
+                  <hi>Receyuour general.</hi> 1. c. 3.</item>
+               <item>
+                  <hi>Recogniſaunce.</hi> 23. c. 6.</item>
+               <item>
+                  <hi>Recorders.</hi> 33. c. 24.</item>
+               <item>
+                  <hi>Recorder of London.</hi> 23. c. 6.</item>
+               <item>
+                  <hi>Recoueries.</hi> 7. c. 4. Et. 21. c. 15. Et. 32. c.
+31.</item>
+               <item>
+                  <hi>Reders of publyque lectures.</hi> 28. c. 13.</item>
+               <item>
+                  <hi>Reedifieng of decaied houſes in ſundry townes</hi>
+32. c. 18. &amp;. 19.</item>
+               <item>
+                  <hi>Reedifieng of voyde groundes in Norwiche and Lynne.</hi>
+26. c. 8. &amp;. 9.</item>
+               <item>
+                  <hi>Regratyng.</hi> 25. c. 4.</item>
+               <item>
+                  <hi>Religious perſon.</hi> 31. c. 6. Et. 33. c. 29.</item>
+               <item>
+                  <hi>Remitter.</hi> 6. c. 6.</item>
+               <item>
+                  <hi>Rent fee reſerued.</hi> 32. c. 28.</item>
+               <item>
+                  <hi>Repairing of townes.</hi> 27. c. 1. Et. 32. c. 18. &amp;.
+19 Et 33. c. 36.</item>
+               <item>
+                  <hi>Repele of actes.</hi> 26. c. 10.</item>
+               <item>
+                  <hi>Replegiare.</hi> 7. c. 4.</item>
+               <item>
+                  <hi>Repleuin.</hi> 21. c, 19</item>
+               <item>
+                  <hi>Reſidence.</hi> 21. c. 13. Et. 28. c. 13.</item>
+               <item>
+                  <hi>Reſygnation</hi> 26. c 3.</item>
+               <item>
+                  <hi>Reſpite of homage.</hi> 33. c. 22.</item>
+               <item>
+                  <hi>Reſtitutio<g ref="char:cmbAbbrStroke">̄</g> of goodes felonouſly ſtollen,</hi> 22.
+c. 11</item>
+               <item>
+                  <hi>Reuiuyng of actes.</hi> 26. c. 10.</item>
+               <item>
+                  <hi>Richard Strode.</hi> 4. c. 18.</item>
+               <item>
+                  <hi>Riſebanke.</hi> 14. &amp;. 15. c. 14.</item>
+               <item>
+                  <hi>Robbers on the ſea.</hi> 28. c. 15.</item>
+               <item>
+                  <hi>Robbery.</hi> 32. c. 12.</item>
+               <item>
+                  <pb facs="tcp:26806:6"/>
+                  <hi>Roiſton.</hi> 32. c. 44.</item>
+               <item>
+                  <hi>Rookes.</hi> 24. c. 10.</item>
+               <item>
+                  <hi>Ropes.</hi> 21. c. 12. Et. 33 c. 17</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>
+                  <hi>SAcrament of the altare.</hi> Anno. 31. c. 14.</item>
+               <item>
+                  <hi>Sayling clothes.</hi> 3. c. 7.</item>
+               <item>
+                  <hi>S. Martins le graunde.</hi> 14. &amp;. 15. c. 9. Et 21.
+c. 16.</item>
+               <item>
+                  <hi>Sale of wynes.</hi> 24. c. 6.</item>
+               <item>
+                  <hi>Salt.</hi> 21. c. 18.</item>
+               <item>
+                  <hi>Saintuary.</hi> 21. c. 2. Et. 22. c. 14. Et. 23. c. 11.
+Et 27. c. 17. &amp;. 19. Et. 28. c. 1. 2. &amp;. 7. Et. 32. c. 12 &amp;. 24.
+Et. 33. c. 8. &amp;. 15.</item>
+               <item>
+                  <hi>Saintuary perſons.</hi> 27. c. 19.</item>
+               <item>
+                  <hi>Saies.</hi> 14. &amp;. 15. c. 3. Et. 21. c. 21. Et. 26.
+c. 16.</item>
+               <item>
+                  <hi>Sandwiche.</hi> 6. c. 17.</item>
+               <item>
+                  <hi>Scauage.</hi> 22. c. 8.</item>
+               <item>
+                  <hi>Scarlet colour.</hi> 24. c. 2.</item>
+               <item>
+                  <hi>Scholers.</hi> 22 c. 12. Et. 28. c. 13.</item>
+               <item>
+                  <hi>Scriuener.</hi> 22. c. 13.</item>
+               <item>
+                  <hi>Scotlande.</hi> 23. c. 16.</item>
+               <item>
+                  <hi>Seale.</hi> 14. &amp;. 15. c. 3. Et 21. c. 21. Et. 27. c.
+12.</item>
+               <item>
+                  <hi>Sealyng of marchandyſes.</hi> 4. c. 6.</item>
+               <item>
+                  <hi>Second delyuerance.</hi> 21. c. 19.</item>
+               <item>
+                  <hi>See of Rome.</hi> 24. c. 12.</item>
+               <item>
+                  <hi>Sees of byſhops ſuffraganes.</hi> 26. c. 14.</item>
+               <item>
+                  <hi>Serche.</hi> 14. &amp;. 15. c. 2. Et. 21. c. 16.</item>
+               <item>
+                  <hi>Serche of oyle.</hi> 3. c. 14.</item>
+               <item>
+                  <hi>Sercher.</hi> 22. c. 7.</item>
+               <item>
+                  <hi>Sercher or ſealer of lether.</hi> 24. c. 1.</item>
+               <item>
+                  <hi>Seruantes.</hi> 4. c. 5. Et. 6. c. 3.</item>
+               <item>
+                  <hi>Seruanter imbeſylyng their maiſters goodes.</hi> An.
+21. c. 7. Et. 28. c. 2.</item>
+               <item>
+                  <hi>Seruant put in truſt.</hi> 27. c. 17. Et. 28. c.
+2.</item>
+               <item>
+                  <hi>Seruyce of warre.</hi> 3. c. 4. Et. 14. &amp;. 15. c.
+14.</item>
+               <item>
+                  <hi>Seſſions in the marches of Wales.</hi> 26. c.
+6.</item>
+               <item>
+                  <hi>Seſſions of the peace.</hi> 33. c. 10.</item>
+               <item>
+                  <hi>Set clothes.</hi> 27. c. 12.</item>
+               <item>
+                  <hi>Seuerne.</hi> 23. c. 12. Et. 26. c. 5.</item>
+               <item>
+                  <hi>Sewers.</hi> 23. c. 5. Et. 25. c. 10.</item>
+               <item>
+                  <hi>Sheepe.</hi> 25. c. 13.</item>
+               <item>
+                  <hi>Sheremen.</hi> 3. c. 7.</item>
+               <item>
+                  <hi>Shypmaiſter.</hi> 27. c 14. Et 32. c. 14.</item>
+               <item>
+                  <hi>Shippes.</hi> 21. c. 18. Et. 23. c. 7. Et 32. c.
+14.</item>
+               <item>
+                  <hi>Shippyng of marchandiſe.</hi> 32. c. 14.</item>
+               <item>
+                  <hi>Shipping of worſtede yarne.</hi> 33. c. 17.</item>
+               <item>
+                  <hi>Shipwright.</hi> 6. c. 3.</item>
+               <item>
+                  <hi>Shires newly made in wales.</hi> 28. c. 3.</item>
+               <item>
+                  <hi>Shiriffes.</hi> 1. c. 8. Et 3. c. 2. &amp;. 12. Et. 4. c.
+1. Et 6. c. 4. &amp;. 18. Et. 7. c. 2. Et. 22. c. 12. &amp;. 14. Et. 23. c. 2.
+&amp;. 5. Et. 24. c. 4. &amp;. 10. Et. 25. c. 1. &amp;. 14. Et. 27. c. 5 &amp;.
+24. Et. 31. c. 8. &amp;. 14 Et. 32. c. 20. &amp;. 41. Et. 33. c. 5. 9. 10.
+&amp;. 24.</item>
+               <item>
+                  <hi>Shiriffes of London.</hi> 4. c. 3. Et. 5. c. 5.</item>
+               <item>
+                  <hi>Shiriffwike.</hi> 6. c. 18.</item>
+               <item>
+                  <hi>Shoryng in longe bowes.</hi> 33. c. 9.</item>
+               <item>
+                  <hi>Show lane.</hi> 32. c. 17.</item>
+               <item>
+                  <hi>Smythes.</hi> 14. &amp;. 15. c. 2.</item>
+               <item>
+                  <hi>Socage tenure.</hi> 32. c. 1.</item>
+               <item>
+                  <hi>Sopemakers.</hi> 23. c. 4.</item>
+               <item>
+                  <hi>Sorcery.</hi> 33. c. 8.</item>
+               <item>
+                  <hi>Souldeours.</hi> 3. c. 4. &amp;. 5. Et. 14. &amp;. 15. c.
+14.</item>
+               <item>
+                  <hi>Souldiours wages.</hi> 3. c. 5.</item>
+               <item>
+                  <hi>Southhampton.</hi> 14. &amp;. 15. c. 13.</item>
+               <item>
+                  <hi>Southwarke.</hi> 25. c. 8.</item>
+               <item>
+                  <hi>Sowing of flaxe and hempe.</hi> 24. c. 4.</item>
+               <item>
+                  <hi>Spaume of yeles and ſalmon.</hi> 25. c. 7.</item>
+               <item>
+                  <hi>Spirituall men of the kynges counſel.</hi> 21. c.
+13.</item>
+               <item>
+                  <hi>Spirituall perſons.</hi> 24. c. 12.</item>
+               <item>
+                  <hi>Sprattis.</hi> 33. c. 2.</item>
+               <item>
+                  <hi>Stamyns.</hi> 6. c. 12. Et. 14. &amp;. 15. c. 3. Et. 21.
+c. 21. Et. 26. c. 16.</item>
+               <item>
+                  <hi>Stanes.</hi> 1. c 9.</item>
+               <item>
+                  <hi>Stannery.</hi> 23. c. 8. Et. 27. c. 23.</item>
+               <item>
+                  <hi>Statutes penall.</hi> 1. c. 4. Et. 7. c. 3.</item>
+               <item>
+                  <hi>Steimery.</hi> 4. c. 8.</item>
+               <item>
+                  <hi>Stew for fyſhe.</hi> 31. c. 2.</item>
+               <item>
+                  <hi>Stewarde of Englande.</hi> 33. c. 20.</item>
+               <item>
+                  <hi>Stewarde of letes and fraunchiſes.</hi> 14. &amp;. 15.
+c. 10. Et. 27. c. 24. Et. 32. c. 13. &amp;. 41. Et. 33. c. 6. &amp;. 9.</item>
+               <item>
+                  <hi>Stylyarde.</hi> 22. c. 8. Et. 32. c. 14.</item>
+               <item>
+                  <hi>Stoned horſes.</hi> 32. c. 13. Et. 33. cap. 5.</item>
+               <item>
+                  <hi>Strayes.</hi> 27. c. 7.</item>
+               <item>
+                  <hi>Straites.</hi> 6. c. 8.</item>
+               <item>
+                  <hi>Straictes of Marrocke.</hi> 27. c. 4. Et. 28. c.
+15.</item>
+               <item>
+                  <hi>Straungers.</hi> 3. c. 3. 7. &amp;. 10. Et. 5. c. 7. Et.
+6. c. 2. &amp;. 12. Et. 22. c. 13. Et. 25. c. 9. Et. 32. c. 16. Et. 33. c.
+9.</item>
+               <item>
+                  <hi>Stremeworkes.</hi> 23. c. 8. Et. 27. c. 23.</item>
+               <item>
+                  <hi>Sturbridge fayre.</hi> 25. c. 4.</item>
+               <item>
+                  <hi>Sturgion and ſeale.</hi> 33. c. 2.</item>
+               <item>
+                  <hi>Subdeacon.</hi> 23. c. 1. Et. 32. c. 3.</item>
+               <item>
+                  <hi>Submiſſion of the clergy.</hi> 25. c. 19.</item>
+               <item>
+                  <hi>Subſidy.</hi> 6. c. 14. Et. 22. c. 8.</item>
+               <item>
+                  <hi>Subſidye of the prouynce of Canturbery.</hi> 32. cap.
+23.</item>
+               <item>
+                  <hi>Subſidye of the temporaltie.</hi> 26. c. 19. Et. 32.
+cap. 50.</item>
+               <item>
+                  <hi>Succeſſion of the kynges maieſtie.</hi> 25. cap.
+22. Et. 28. c. 7.</item>
+               <item>
+                  <hi>Succeſſour to the corone.</hi> 28. c. 17.</item>
+               <item>
+                  <hi>Suffolke.</hi> 14. &amp;. 15. c. 11.</item>
+               <item>
+                  <hi>Suffraganes.</hi> 26. c. 14.</item>
+               <item>
+                  <hi>Supreme head of the churche of Englande.</hi> 26. c 1.
+Et. 28. c. 10.</item>
+               <item>
+                  <hi>Surgery.</hi> 3. c. 11. Et. 32. c. 40. &amp;. 42.</item>
+               <item>
+                  <hi>Surgeons.</hi> 22. c. 13.</item>
+               <item>
+                  <hi>Surgeons of London.</hi> 5. c. 6. Et. 32. c. 42.</item>
+               <item>
+                  <hi>Surueyours generall.</hi> 32. c. 20. Et. 33. c.
+39.</item>
+               <item>
+                  <hi>Swanimotes.</hi> 33. c. 38. &amp;. 39.</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>
+                  <hi>TAble of cuſtome.</hi> Anno. 22. cap. 8.</item>
+               <item>
+                  <hi>Takle.</hi> 21. c. 12.</item>
+               <item>
+                  <hi>Taking of the kynges haukes.</hi> 31. c. 12.</item>
+               <item>
+                  <hi>Talow chandlers.</hi> 3. c. 14.</item>
+               <item>
+                  <hi>Tanner.</hi> 3. c. 10. Et. 22. c. 6. Et. 24. c. 1. Et.
+27. cap. 14.</item>
+               <item>
+                  <pb facs="tcp:26806:6"/>
+                  <hi>Tanhowſe.</hi> 21. c. 13. Et. 22. c.
+6.</item>
+               <item>
+                  <hi>Temporalties.</hi> 21. c. 13.</item>
+               <item>
+                  <hi>Tenthe.</hi> 26. c. 3. Et. 27. c. 8.</item>
+               <item>
+                  <hi>Tenantes in common.</hi> 31. c. 1. Et. 33. c. 32.</item>
+               <item>
+                  <hi>Termer.</hi> 21. c. 15.</item>
+               <item>
+                  <hi>Teſtament.</hi> 21. c. 4. Et. 27. c. 10. Et. 32. c.
+1.</item>
+               <item>
+                  <hi>Teingmouth.</hi> 23. c. 8.</item>
+               <item>
+                  <hi>Thamis.</hi> 27. c. 18. Et. 32. c. 14.</item>
+               <item>
+                  <hi>Thiefe in a felonious acte, ſlaine.</hi> 24. c.
+5.</item>
+               <item>
+                  <hi>Tholous woad.</hi> 7. c. 2. Et. 32. c. 14.</item>
+               <item>
+                  <hi>Tidebote.</hi> 6. c. 7.</item>
+               <item>
+                  <hi>Tillage.</hi> 6. c. 5. Et. 7. c. 1. Et. 27. c. 22.</item>
+               <item>
+                  <hi>Tinworkes.</hi> 27. c. 23.</item>
+               <item>
+                  <hi>Tithes.</hi> 27. c. 20. Et. 32. c. 7.</item>
+               <item>
+                  <hi>Tithes in London.</hi> 27. c. 21.</item>
+               <item>
+                  <hi>Tirwin and Turney.</hi> 5. c. 1.</item>
+               <item>
+                  <hi>Tolle and cuſtome.</hi> 1. c. 9.</item>
+               <item>
+                  <hi>Tonnage and pondage,</hi> 6. c. 14.</item>
+               <item>
+                  <hi>Tonne of wyne.</hi> 23. c. 7.</item>
+               <item>
+                  <hi>Toſtockes.</hi> 3. c. 6. Et. 27. c. 12.</item>
+               <item>
+                  <hi>Townes corporat.</hi> 27. c. 24.</item>
+               <item>
+                  <hi>Townes ſuffered to fall downe.</hi> 7. c. 1.</item>
+               <item>
+                  <hi>Trauers.</hi> 1. c. 10. &amp;. 12.</item>
+               <item>
+                  <hi>Treſon.</hi> 22. c. 9. Et. 26. c. 13. Et. 27. c. 2. Et.
+28. c. 7. 10. &amp;. 18. Et. 31. c. 8. &amp;. 14. Et. 32. c. 25. Et. 33. c.
+21.</item>
+               <item>
+                  <hi>Treaſons, miſpriſions of treaſons, murders,
+manſlaughters done within the courte.</hi> 33. c. 12.</item>
+               <item>
+                  <hi>Treſourer of the kynges chamber.</hi> 26. c. 3. Et. 33.
+c. 39.</item>
+               <item>
+                  <hi>Treſourer of the warres.</hi> 3. c. 5.</item>
+               <item>
+                  <hi>Treſourer of England.</hi> 21. c. 20.</item>
+               <item>
+                  <hi>Treſpas.</hi> 23. c. 14.</item>
+               <item>
+                  <hi>Trial of murders and felonies.</hi> 23. c. 13.</item>
+               <item>
+                  <hi>Trial of treſon.</hi> 31. c. 10.</item>
+               <item>
+                  <hi>Trial of treſons in Wales.</hi> 32. c. 4.</item>
+               <item>
+                  <hi>Trial of treſon. &amp;c. by commiſſion.</hi> 33. c.
+23.</item>
+               <item>
+                  <hi>Triall of pieres.</hi> 33. c. 12.</item>
+               <item>
+                  <hi>Trinity terme.</hi> 32. c. 21.</item>
+               <item>
+                  <hi>Tyne.</hi> 21. c. 18.</item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>
+                  <hi>VAcation.</hi> 21. c. 13. Et. 25. c. 11.</item>
+               <item>
+                  <hi>Vagabundes.</hi> 22. c. 12. Et. 27. c. 25. Et. 28. c. 6.
+Et. 33. c. 17.</item>
+               <item>
+                  <hi>Veale.</hi> 24. c. 3.</item>
+               <item>
+                  <hi>Verdit.</hi> 1. c. 8. &amp;. 11. Et. 23. c. 3. Et. 26. c.
+4.</item>
+               <item>
+                  <hi>Veſſes.</hi> 3. c. 7.</item>
+               <item>
+                  <hi>Vicarage.</hi> 26. c. 3.</item>
+               <item>
+                  <hi>Vicar.</hi> 32. c. 28.</item>
+               <item>
+                  <hi>Vicegerent.</hi> 31. c. 10.</item>
+               <item>
+                  <hi>Vierge.</hi> 32. c. 20.</item>
+               <item>
+                  <hi>Vintener.</hi> 24. c. 6.</item>
+               <item>
+                  <hi>Viſitation.</hi> 28. c. 10. Et. 31. c. 14.</item>
+               <item>
+                  <hi>Viſitours.</hi> 28. c. 10.</item>
+               <item>
+                  <hi>Viſours.</hi> 3. c 9.</item>
+               <item>
+                  <hi>Vitaile.</hi> 3. c. 8. Et. 14. &amp;. 15. c. 1. Et. 25.
+c. 2.</item>
+               <item>
+                  <hi>Vitayler.</hi> 3. c. 8. Et. 25. c. 2.</item>
+               <item>
+                  <hi>Vnlaufull games.</hi> 33. c. 9.</item>
+               <item>
+                  <hi>Vow.</hi> 31. c. 6.</item>
+               <item>
+                  <hi>Vow of chaſtity.</hi> 31. c. 14.</item>
+               <item>
+                  <hi>Vowes aduiſedly made to god.</hi> 31. c. 14.</item>
+               <item>
+                  <hi>V. portes.</hi> 32 c. 20.</item>
+               <item>
+                  <hi>Vſes.</hi> 23. c. 10.</item>
+               <item>
+                  <hi>Vſes and wylles.</hi> 27. c. 10. Et. 32. c 1.</item>
+            </list>
+            <list>
+               <head>VV</head>
+               <item>
+                  <hi>VVages.</hi> 6. c. 3.</item>
+               <item>
+                  <hi>Wales.</hi> 14. &amp;. 15. c. 14. Et. 21. c. 6. Et. 23 c.
+5. Et. 26. c. 6. 11. &amp;. 12. Et. 27. c. 5. &amp;. 10. Et. 31. c. 11. Et. 32.
+c. 4. &amp;. 37.</item>
+               <item>
+                  <hi>Wales vnited to the realme of Englande.</hi> 27. c.
+26.</item>
+               <item>
+                  <hi>Walſhmen.</hi> 28. c. 6. Et. 33. c. 17.</item>
+               <item>
+                  <hi>Walker.</hi> 3. c. 6. Et. 6. c. 8.</item>
+               <item>
+                  <hi>Wayes in the weld of Kent</hi> 14. &amp;. 15. c.
+6.</item>
+               <item>
+                  <hi>waies in Suſſex.</hi> 26. c. 7.</item>
+               <item>
+                  <hi>Way from Algate to white chapel.</hi> 32. c. 17.</item>
+               <item>
+                  <hi>Wardes.</hi> 32. c. 46. Et. 33. c. 22.</item>
+               <item>
+                  <hi>Ward and maryage.</hi> 32. c. 1.</item>
+               <item>
+                  <hi>Wardein of the .v. portes.</hi> 22. c. 7. Et. 32. c. 14.
+&amp;. 48.</item>
+               <item>
+                  <hi>Wardeyns of the marches.</hi> 23. c. 16. Et. 32. c.
+6.</item>
+               <item>
+                  <hi>Wardeyns of felowſhyppes.</hi> 14. &amp;. 15. c. 2. Et.
+21. c. 16. Et. 22. c. 4. Et. 28. c. 5.</item>
+               <item>
+                  <hi>Wardmote enqueſtes.</hi> 32. c. 17.</item>
+               <item>
+                  <hi>wardſhyppes.</hi> 27. c. 10. Et. 32. c. 1.</item>
+               <item>
+                  <hi>Warrantes.</hi> 27. c. 11. Et. 33. c. 22. &amp;.
+39.</item>
+               <item>
+                  <hi>Warren.</hi> 31. c. 12</item>
+               <item>
+                  <hi>Watermen.</hi> 6. c. 7.</item>
+               <item>
+                  <hi>watryng of hempe and flax.</hi> 33. c. 17.</item>
+               <item>
+                  <hi>Weares.</hi> 14. &amp;. 15. c. 13. Et. 21. c. 18. Et. 23.
+c. 5. &amp;. 18. Et. 31. c. 4.</item>
+               <item>
+                  <hi>Weinlynges.</hi> 24. c. 9. Et. 28. c. 8. Et. 31. c.
+7.</item>
+               <item>
+                  <hi>Wepon.</hi> 26. c. 6.</item>
+               <item>
+                  <hi>Weſtcheſter.</hi> 33. c. 15.</item>
+               <item>
+                  <hi>Weuer.</hi> 3. c. 6. Et. 6. c 9.</item>
+               <item>
+                  <hi>Whery bote.</hi> 6. c. 7.</item>
+               <item>
+                  <hi>Whippyng.</hi> 22. c. 12.</item>
+               <item>
+                  <hi>White ſtraites.</hi> 5. c. 2.</item>
+               <item>
+                  <hi>White wollen clothes caried ouer the ſea.</hi> 5. c.
+3</item>
+               <item>
+                  <hi>Widowes of the kynge.</hi> 32. c. 46.</item>
+               <item>
+                  <hi>Wyll.</hi> 21. c. 4.</item>
+               <item>
+                  <hi>Wildfowle.</hi> 25. c. 11.</item>
+               <item>
+                  <hi>Wyndyng of wolles.</hi> 23. c. 17. Et. 28. c. 8. Et. 31.
+c. 7. Et. 33. c. 17.</item>
+               <item>
+                  <hi>Wines.</hi> 3. c. 8. Et. 7. c. 2. Et. 23. c. 7. Et. 24.
+c. 6. Et. 26. c. 10. Et. 28. c. 14. Et. 32. c. 14.</item>
+               <item>
+                  <hi>witchecraftes.</hi> 33. c. 8.</item>
+               <item>
+                  <hi>Woad.</hi> 23. c. 7.</item>
+               <item>
+                  <hi>Woll.</hi> 3. c. 6. Et. 22. c. 1 Et. 23. c. 17.</item>
+               <item>
+                  <hi>Wollen yarne.</hi> 3. c. 7.</item>
+               <item>
+                  <hi>Wollen clothes.</hi> 6. c. 9. Et. 27. c. 12.</item>
+               <item>
+                  <hi>Wolpacker.</hi> 22 c. 1.</item>
+               <item>
+                  <hi>Woman ſeruant.</hi> 6. c. 3.</item>
+               <item>
+                  <hi>Women maryed and vnmaried offendyng with <pb facs="tcp:26806:7"/>
+prieſtes.</hi> 32. c. 10.</item>
+               <item>
+                  <hi>woodſales.</hi> 27. c. 27. Et. 31. c. 13. Et. 32. c.
+46. Et. 33. c. 38. &amp;. 39.</item>
+               <item>
+                  <hi>worceſter.</hi> 25. c. 18. Et. 27. c. 12.</item>
+               <item>
+                  <hi>worſted.</hi> 5. c. 4. Et. 6. c. 12. Et. 14. &amp;. 15.
+c. 3. Et. 21. c. 21. Et 25. c. 5. Et. 26. c. 16.</item>
+               <item>
+                  <hi>worſted weuers.</hi> 14. &amp;. 15. c. 3. Et. 21. c.
+21. Et. 22 c. 1. Et. 26. c. 16.</item>
+               <item>
+                  <hi>worſted yarne.</hi> 33. c. 16.</item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>
+                  <hi>YErmouth.</hi> 14. &amp;. 15. c. 3. Et. 21. c. 21. E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 26. c. 16.</item>
+               <item>
+                  <hi>Yorke.</hi> 3. c. 8. Et. 4. c. 7. Et. 21. c. 21. c.
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Et. 23. c. 18.</item>
+            </list>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <g ref="char:leaf">❧</g> 
+               <g ref="char:leaf">❧</g> 
+               <g ref="char:leaf">❧</g> 
+               <g ref="char:leaf">❧</g>
+            </p>
+         </div>
+         <div type="illustration">
+            <p> 
+               <figure>
+                  <head>ARMA REGIS ANGL<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> ET F</head>
+               </figure>
+            </p>
+            <pb facs="tcp:26806:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
